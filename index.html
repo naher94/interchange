@@ -1,0 +1,42 @@
+---
+layout: default
+hero-text: "Designing more of the world period."
+---
+  <h1 class="h1 pageTitle center">Featured</h1>
+
+  <div class="pagePosts">
+    <!--{% assign featureCounter = 0 %}-->
+    
+    {% for post in site.posts %} <!--how would a let this to limit at 5 or 10?--> <!--limit:5 does not work as expected due to the if statements   Counter Methods?-->
+    <!--{% if featureCounter < 3 %}-->
+    {% if post.post-type == "news" %}
+    <!--{% increment featureCounter %}-->
+      <div class="post">
+        <div class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</div>
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+        <div class="postPreview">
+            {{ post.content | truncatewords:30 }} <!--HOW DO I IGNORE IMAGES HERE-->
+        </div>
+      </div>
+    {% endif %}
+      
+    {% if post.post-type == "project" %}
+    <!--{% increment featureCounter %}-->
+    <div class="post">
+        <div class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</div>
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+        <div class="miniThumbnail">
+            <img src="{{ post.thumbnail }}">
+        </div>
+        <div class="postPreview">
+            {{ post.content | truncatewords:30 }} <!--HOW DO I IGNORE IMAGES HERE-->
+        </div>
+      </div>
+    {% endif %}
+    <!--{% endif %}-->
+    {% endfor %}
+    </div>

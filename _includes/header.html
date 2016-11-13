@@ -1,0 +1,16 @@
+<header style="background-color:black; margin-bottom:50px;">
+    <a href="{{ site.baseurl }}/">
+        <img src="../img/logoWhite.svg" style="height:130px;">
+    </a>
+    <div class="nav">
+        <a class="navItem" href="/index.html">Home</a>
+        {% for my_page in site.pages %}
+          {% if my_page.title %}
+          <a class="navItem" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+          {% endif %}
+        {% endfor %}    
+    </div>
+
+    <div class="heroText">{{ page.hero-text }}</div>
+
+</header>

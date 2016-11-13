@@ -1,0 +1,19 @@
+---
+layout: default
+title: News
+hero-text: "What are we up to?"
+---
+  <h1 class="h1 pageTitle center">News</h1>
+
+  <div class="pagePosts">
+    {% for post in site.posts %} <!--how would a let this to limit at 5 or 10?-->
+    {% if post.post-type == "news" %}
+      <div class="post">
+        <div class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</div>
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </h2>
+      </div>
+    {% endif %}
+    {% endfor %}
+    </div>
