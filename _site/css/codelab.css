@@ -141,25 +141,45 @@ footer {
 }
 
 header {
-    background: url(../img/heroHomeColorBake.png) no-repeat center center fixed;
-    -webkit-background-size: cover;
+
+    background: url(../img/InterchangeLogo.svg) no-repeat center center;
+     background-size: 150%;
+    background-position: 60%;
+/*    -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
-    height: 600px;
+*/
+    height: 400px;
+/*
     padding-top: 100px;
     padding-left: 90px;
     padding-right: 90px;
-    /*font-weight: 600;*/
     font-size: 24px;
+*/
+    /*font-weight: 600;*/
+    background-color: white;
+    overflow: hidden;
+
 }
 
-.heroOverlay{
-    background: #E54762;
-    background-blend-mode: multiply; /*NOT CURRENTLY WORKING*/
-    overflow: hidden;
-    height: 100%;
-    z-index: 2;
+.interchangeLogo{
+    margin-top: -350px;
+}
+
+.button{
+    padding: 20px 20px 20px 20px;
+    font-size: 24px;
+    border-radius: 5px;
+  background-color: #313131;
+}
+.button:hover{
+  background-color:black;
+}
+
+.buttonContainer{
+  text-align: center;
+  margin-top: 50px;
 }
 
 .pagePosts{

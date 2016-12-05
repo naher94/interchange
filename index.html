@@ -1,42 +1,55 @@
 ---
 layout: default
-hero-text: "Designing more of the world period."
 ---
-  <h1 class="h1 pageTitle center">Featured</h1>
+<h1 class="h1 pageTitle center">About</h1>
 
   <div class="pagePosts">
-    <!--{% assign featureCounter = 0 %}-->
-    
-    {% for post in site.posts %} <!--how would a let this to limit at 5 or 10?--> <!--limit:5 does not work as expected due to the if statements   Counter Methods?-->
-    <!--{% if featureCounter < 3 %}-->
-    {% if post.post-type == "news" %}
-    <!--{% increment featureCounter %}-->
-      <div class="post">
-        <div class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</div>
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-        <div class="postPreview">
-            {{ post.content | truncatewords:30 }} <!--HOW DO I IGNORE IMAGES HERE-->
-        </div>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non tellus lacinia, venenatis nisl eget, mattis massa. Suspendisse nec consectetur eros. Sed non tristique quam. Sed ullamcorper, mauris vel dapibus egestas, enim mi consequat quam, vitae lobortis justo dui non purus. Morbi facilisis consectetur nunc nec consequat. Donec venenatis sit amet turpis eget tristique. Mauris non libero sed orci mollis porta. Integer sodales augue vel nulla mollis, id finibus ex maximus.
+
+    Suspendisse ornare urna at nunc malesuada fermentum. Donec eu ipsum ipsum. Cras vel mi ullamcorper, pulvinar lectus eget, congue urna. Quisque facilisis massa quis consequat vestibulum. Sed sed neque pellentesque, laoreet quam non, ornare risus. Aenean purus ex, convallis eget ornare sed, venenatis nec massa. Mauris vulputate ultrices tortor, non vehicula magna scelerisque nec.
+ </div>
+
+  <div class="buttonContainer">
+    <a href="http://cmu.edu">
+      <div class="button">
+        Register
       </div>
-    {% endif %}
-      
-    {% if post.post-type == "project" %}
-    <!--{% increment featureCounter %}-->
-    <div class="post">
-        <div class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</div>
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-        <div class="miniThumbnail">
-            <img src="{{ post.thumbnail }}">
-        </div>
-        <div class="postPreview">
-            {{ post.content | truncatewords:30 }} <!--HOW DO I IGNORE IMAGES HERE-->
-        </div>
-      </div>
-    {% endif %}
-    <!--{% endif %}-->
+    </a>
+  </div>
+
+<!--
+  <h1 class="h1 pageTitle center">Projects</h1>
+
+  <div class="pagePosts">    
+    {% for post in site.posts %}
+        {% if post.post-type == "project" %}
+        <div class="post">
+            <div class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</div>
+            <h2>
+              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            </h2>
+            <div class="miniThumbnail">
+                <img src="{{ post.thumbnail }}">
+            </div>
+          </div>
+        {% endif %}
     {% endfor %}
-    </div>
+ </div>
+
+<h1 class="h1 pageTitle center">People</h1>
+
+  <div class="pagePosts">    
+    {% for post in site.posts %}
+        {% if post.post-type == "people" %}
+        <div class="post">
+            <div class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</div>
+            <h2>
+              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            </h2>
+            <div class="miniThumbnail">
+                <img src="{{ post.thumbnail }}">
+            </div>
+          </div>
+        {% endif %}
+    {% endfor %}
+ </div>-->

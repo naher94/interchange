@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Handbook
-hero-text: "What are we up to?"
+title: Upload
 ---
 # Introduction
 
