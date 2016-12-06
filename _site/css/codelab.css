@@ -144,7 +144,7 @@ header {
 
     background: url(../img/InterchangeLogo.svg) no-repeat center center;
      background-size: 150%;
-    background-position: 60%;
+    background-position: 60% 52%;
 /*    -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -163,9 +163,11 @@ header {
 
 }
 
+/*
 .interchangeLogo{
-    margin-top: -350px;
+    margin-top: -450px;
 }
+*/
 
 .button{
     padding: 20px 20px 20px 20px;
