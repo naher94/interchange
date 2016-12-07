@@ -39,7 +39,6 @@ p {
     font-size: 20px; 
 }
 
-
 .image-center {
     margin: 0 auto;
     display: block;
@@ -140,11 +139,18 @@ footer {
     padding-bottom: 10px;
 }
 
+body{
+    /*background-color: #F9F9F9;*/
+}
+
 header {
 
     background: url(../img/InterchangeLogo.svg) no-repeat center center;
-     background-size: 150%;
+    background-size: 150%;
     background-position: 60% 52%;
+    box-shadow: 0px -5px 20px -15px black inset;
+    -webkit-box-shadow: 0px -5px 20px -15px black inset;
+    -moz-box-shadow: 0px -5px 20px -15px black inset;
 /*    -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
