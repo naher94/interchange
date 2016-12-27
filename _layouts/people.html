@@ -11,18 +11,18 @@ layout: default
 
 <div class="small-12 medium-4 large-3 columns">
     <div class="pro-pic-container">
-      <img src="{{page.thumbnail}}" style="width:100%">
+      <img src="{{ page.thumbnail }}" style="width:100%">
       <span class="banner {{ page.program }}">{{ page.program }}</span>
     </div>
     
     {% if page.resume %}
-    <a target="_blank" href="../img/resumes/{{page.resume}}">
+    <a target="_blank" href="{{ page.resume }}">
         <div id="siteButton"><i class="fa fa-file fa-1x"></i> Resume</div>
     </a>
     {% endif %}
   
     {% if page.website %}
-    <a target="_blank" href="http://{{page.website}}">
+    <a target="_blank" href="http://{{ page.website }}">
         <div id="siteButton"><i class="fa fa-globe fa-1x"></i> Personal Site</div>
     </a>
     {% endif %}
