@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 27 Dec 2016 00:39:10 -0500</pubDate>
-    <lastBuildDate>Tue, 27 Dec 2016 00:39:10 -0500</lastBuildDate>
+    <pubDate>Tue, 27 Dec 2016 00:50:29 -0500</pubDate>
+    <lastBuildDate>Tue, 27 Dec 2016 00:50:29 -0500</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -136,7 +136,7 @@
     
       <item>
         <title>CoLab (Sketch Plugin)</title>
-        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce aliquet nisi ut eleifend fringilla. Duis placerat ipsum ac risus porta cursus ut sed felis. Integer vel mauris a sapien hendrerit fringilla eu quis turpis. Vivamus sed felis nunc. Proin &lt;a class=&quot;link-1&quot; href=&quot;2016-03-28-welcome-to-jekyll.markdown&quot;&gt;bibendum&lt;/a&gt; ante a ex vulputate mattis. Quisque ullamcorper, turpis sed euismod feugiat, felis eros volutpat lectus, eget mollis ligula nunc et sapien. Sed est erat, interdum sed nibh sed, placerat dictum erat. Ut eget nunc pellentesque, viverra dolor eget, interdum mi. Mauris interdum tortor aliquam ligula scelerisque eleifend et sollicitudin urna.&lt;/p&gt;
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce aliquet nisi ut eleifend fringilla. Duis placerat ipsum ac risus porta cursus ut sed felis. Integer vel mauris a sapien hendrerit fringilla eu quis turpis. Vivamus sed felis nunc. Proin &lt;a href=&quot;2016-03-28-welcome-to-jekyll.markdown&quot;&gt;bibendum&lt;/a&gt; ante a ex vulputate mattis. Quisque ullamcorper, turpis sed euismod feugiat, felis eros volutpat lectus, eget mollis ligula nunc et sapien. Sed est erat, interdum sed nibh sed, placerat dictum erat. Ut eget nunc pellentesque, viverra dolor eget, interdum mi. Mauris interdum tortor aliquam ligula scelerisque eleifend et sollicitudin urna.&lt;/p&gt;
 
 &lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/colab/logo.svg&quot; alt=&quot;Logo&quot; class=&quot;image-center&quot; style=&quot;width:25%&quot; /&gt;&lt;/div&gt;
 &lt;iframe width=&quot;100%&quot; height=&quot;600&quot; src=&quot;https://www.youtube.com/embed/w0ZcpQ547Gg?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
