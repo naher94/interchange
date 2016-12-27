@@ -46,13 +46,13 @@ p {
 
 ::selection {
     color: white;
-    background: #E54762;
+    background: #313131;
 }
 
 ::-moz-selection {
     /* Code for Firefox */
     color: white;
-    background: #E54762;
+    background: #313131;
 }
 
 img {
@@ -67,11 +67,13 @@ img {
 }
 
 .nav{
-    float: right;
+  margin-top: 30px;
+  margin-left: 10px;
 }
 
 .navItem {
-    color: white;
+    color: #313131;
+    font-size: 20px; 
     /*margin: 10px;*/
     padding-left: 20px;
     font-weight: 700;
@@ -79,9 +81,9 @@ img {
 }
 
 .navItem:hover { /*NOT REALLY HAPPY WITH THIS INTERACTION*/
-    color: white;
     font-style: italic;
-    text-decoration: underline;
+    color: #313131;
+    /*text-decoration: underline;*/
 }
 /*
 .navbar {
@@ -98,14 +100,47 @@ img {
 }*/
 
 
+/*
 a {
-    color: #E54762;
-    text-decoration: none;
+    color: #313131;
+    background: rgba(0, 0, 0, 0.2);
+    display: inline;
+    text-decoration: underline;
 }
 
 a:hover {
-    color: #BA3A50;
+    color: #000;
 }
+*/
+
+a {
+  position: relative;
+  text-decoration: none;
+  display: inline-block;
+  color: black;
+  padding: 0 1px;
+  transition: color ease 0.3s;
+}
+  a::after {
+    content: '';
+    position: absolute;
+    z-index: -1;
+    width: 100%;
+    height: 10%;
+    left: 0;
+    bottom: 0;
+    background-color: #313131;
+    transition: all ease 0.3s;
+  }
+  
+  a:hover {
+    color: white;
+}
+    a:hover::after {
+      height: 100%;
+    }
+  
+
 
 .social {
     width: 60px;
@@ -134,7 +169,7 @@ a:hover {
 footer {
     margin-top: 50px;
     background-color: #ECECEC;
-    text-align: center;
+    /*text-align: center;*/
     padding-top: 10px;
     padding-bottom: 10px;
 }
@@ -190,6 +225,10 @@ header {
   margin-top: 50px;
 }
 
+.registerButton{
+  margin-bottom: 100px;
+}
+
 .pagePosts{
     margin-top: 50px;
 }
@@ -242,6 +281,9 @@ header {
     text-align: center;
 }
 
+.site-footer{
+  color: #b5b5b5;
+}
 .outerspace {
     background-color: #26153C;
     width: 100%;
@@ -257,24 +299,27 @@ header {
 
 #siteButton {
     width: 100%;
-    background-color: #E54762;
+    background-color: #313131;
     font-size: 20px;
     color: white;
     padding-top: 10px;
     padding-bottom: 10px;
     text-align: center;
     margin-top: 10px;
-    margin-bottom: 25px;
+    /*margin-bottom: 25px;*/
 }
 
 #siteButton:hover {
-    background-color: #BA3A50;
+    background-color: #000;
 }
 
 .copyright{
-    font-size: 18px;
-    font-weight: 600;
+/*    font-size: 18px;*/
+/*    font-weight: 600;*/
     color: #b5b5b5;
+}
+.rehanLogo{
+  height: 18px;
 }
 
 .noSelect{
@@ -290,7 +335,6 @@ header {
 
 .post-meta{
     margin-top: -10px;
-    /*color: #E54762;*/
 }
 
 .post-title{
@@ -298,10 +342,106 @@ header {
 }
 
 .pageTitle{
-    margin-bottom: 50px;   
+    margin-bottom: 50px;
+}
+
+.programTitle{
+    margin-top: -10px;
+    font-size: 18px;
 }
 
 .miniThumbnail{
     /*float: left;*/
     width: 100px;
 }
+
+.banner {
+    position: absolute;
+    top: -20px;
+    right: -20px;
+    width: 70px;
+    height: 70px;
+    line-height: 70px;
+    font-size: 18px;
+    text-align: center;
+    border-radius: 100%;
+    font-weight: 700;
+    background-color: black;
+    color: white;
+}
+
+.program-container {
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+  background-color: black;
+  text-align: center;
+  margin: auto;
+}
+
+.program-text {
+  line-height: 200px;
+  font-weight: 700;
+  color: white;
+  font-size: 32px;
+}
+
+.program-extended-text {
+    position: absolute;
+    bottom: 20px;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    color: #FFF;
+    opacity: 0;
+    text-shadow: 0px 0px 5px rgba(50, 50, 50, 1);
+    font-size: 24px;
+    line-height: 24px;
+    text-align: center;
+}
+
+.thumbnail-container:hover .program-extended-text {
+    opacity: 1;
+}
+
+.pro-pic-container {
+    position: relative;
+    display: block;
+}
+.pro-pic-container .MAAD:hover{
+  background-color: #6CBD45;
+}
+.pro-pic-container .MSAECM:hover{
+  background-color: #2EC1DD;
+}
+.pro-pic-container .MSBPD:hover{
+  background-color: #6952A1;
+}
+.pro-pic-container .MSSD:hover{
+  background-color: #E01EAE;
+}
+.pro-pic-container .MTID:hover{
+  background-color: #F37820;
+}
+.pro-pic-container .MSCD:hover{
+  background-color: #F6EB0F;
+}
+.pro-pic-container .MUD:hover{
+  background-color: #EC1950;
+}
+
+.MAAD{ background-color: #6CBD45}
+.MSAECM{ background-color: #2EC1DD}
+.MSBPD{ background-color: #6952A1}
+.MSSD{ background-color: #E01EAE}
+.MTID{ background-color: #F37820}
+.MSCD{ background-color: #F6EB0F}
+.MUD{ background-color: #EC1950}
+
+.MAAD:hover{ background-color: #679448}
+.MSAECM:hover{ background-color: #4B96AB}
+.MSBPD:hover{ background-color: #54477D}
+.MSSD:hover{ background-color: #A43087}
+.MTID:hover{ background-color: #B46731}
+.MSCD:hover{ background-color: #C0B73F}
+.MUD:hover{ background-color: #AC2E46}
