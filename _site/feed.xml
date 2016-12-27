@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 27 Dec 2016 17:42:11 -0500</pubDate>
-    <lastBuildDate>Tue, 27 Dec 2016 17:42:11 -0500</lastBuildDate>
+    <pubDate>Tue, 27 Dec 2016 18:16:07 -0500</pubDate>
+    <lastBuildDate>Tue, 27 Dec 2016 18:16:07 -0500</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -35,28 +35,6 @@
         <category>welcome</category>
         
         <category>new</category>
-        
-      </item>
-    
-      <item>
-        <title>Rehan Butt</title>
-        <description>&lt;p&gt;Rehan is a masters student at Carnegie Mellon University studying Tangible Interaction Design, a degree with the intention to bring together his passions in design &lt;span class=&quot;emoji emoji-palette&quot;&gt;&lt;/span&gt; and technology.&lt;span class=&quot;emoji emoji-computer&quot;&gt;&lt;/span&gt; Rehan loves to travel &lt;span class=&quot;emoji emoji-airplane&quot;&gt;&lt;/span&gt;, and has been fortunate enough to live all over the world &lt;span class=&quot;emoji emoji-globe_asia&quot;&gt;&lt;/span&gt;. Trying everyday to bring the unique aspects of each culture into his work. In his free time, he enjoys photography &lt;span class=&quot;emoji emoji-camera&quot;&gt;&lt;/span&gt; and creating cute digital illustrations.&lt;span class=&quot;emoji emoji-penguin_head&quot;&gt;&lt;/span&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 01 Mar 2016 12:00:00 -0500</pubDate>
-        <link>http://localhost:4000/rehanButt</link>
-        <guid isPermaLink="true">http://localhost:4000/rehanButt</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Eddy Man Kim</title>
-        <description>&lt;p&gt;Eddy Man is a designer, researcher, educator, and entrepreneur. A technologist and futurist at heart, Eddy Man is interested in interdisciplinary efforts to mutually augment design and technology—especially as they relate to projective trends in new media. Eddy Man received his Bachelor of Architecture from Cornell University and his Master in Design Studies at Harvard University Graduate School of Design, with a concentration in Design Technology. Eddy Man has co-founded openUU, an award-winning design research agency based in Hong Kong. Eddy Man has worked in the offices of Posco A.C., Robert A.M. Stern Architects, and EPIPHYTE Lab. He has also taught at The University of Hong Kong and Hong Kong Interior Design Association.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 01 Mar 2016 12:00:00 -0500</pubDate>
-        <link>http://localhost:4000/eddyManKim</link>
-        <guid isPermaLink="true">http://localhost:4000/eddyManKim</guid>
-        
         
       </item>
     
