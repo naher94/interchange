@@ -6,7 +6,7 @@ tile-name: "Sketch Plugin"
 thumbnail: "/img/thumbnails/coLab.png"
 author: "Rehan Butt"
 date:   2016-03-01 12:00:00 -0500
-categories: digital branding
+tags: digital branding
 ---
 <div class="image-container"><img src="../img/colab/logo.svg" alt="Logo" class="image-center" style="width:25%"/></div>
 <iframe width="100%" height="600" src="https://www.youtube.com/embed/w0ZcpQ547Gg?rel=0" frameborder="0" allowfullscreen></iframe>
