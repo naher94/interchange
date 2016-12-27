@@ -5,9 +5,10 @@ person-type: "student"
 title:  "Rehan Butt"
 tile-name: "Rehan Butt"
 thumbnail: "/img/people/rehanButt.png"
+resume: "rehanButt.pdf"
 permalink: "rehanButt"
 website: "rehanbutt.com"
-hero-text: Experience Designer
+program: "MTID"
 date:   2016-03-01 12:00:00 -0500
 ---
 

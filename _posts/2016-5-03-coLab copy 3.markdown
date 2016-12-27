@@ -6,7 +6,7 @@ tile-name: "Sketch Plugin"
 thumbnail: "/img/thumbnails/coLab.png"
 author: "Rehan Butt"
 date:   2016-03-01 12:00:00 -0500
-categories: digital branding
+tags: digital branding
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce aliquet nisi ut eleifend fringilla. Duis placerat ipsum ac risus porta cursus ut sed felis. Integer vel mauris a sapien hendrerit fringilla eu quis turpis. Vivamus sed felis nunc. Proin bibendum ante a ex vulputate mattis. Quisque ullamcorper, turpis sed euismod feugiat, felis eros volutpat lectus, eget mollis ligula nunc et sapien. Sed est erat, interdum sed nibh sed, placerat dictum erat. Ut eget nunc pellentesque, viverra dolor eget, interdum mi. Mauris interdum tortor aliquam ligula scelerisque eleifend et sollicitudin urna.
 

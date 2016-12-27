@@ -12,8 +12,11 @@ hero-text: "Who is part of the team"
                         <div class="small-12 medium-4 large-3 columns thumbnail-tile">
                             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
                                 <div class="thumbnail-container">
-                                <img class="thumbnail-image" src="{{ post.thumbnail }}">
-                                <span class="thumbnail-text">{{ post.tile-name }}</span>
+                                  <img class="thumbnail-image" src="{{ post.thumbnail }}">
+                                  <span class="thumbnail-text">{{ post.tile-name }}</span>
+                                  {% if post.program %}
+                                  <span class="banner {{ post.program }}">{{ post.program }}</span>
+                                  {% endif %}
                                 </div>
                             </a>
                         </div>
@@ -21,11 +24,12 @@ hero-text: "Who is part of the team"
                 {% endif %}
             {% endfor %}
         </div>
-    <h1 class="center">Faculty</h1>
+  
+<!--    <h1 class="center">Organizers</h1>
             <div class="row">
             {% for post in site.posts %}
                 {% if post.post-type == "people" %}
-                    {% if post.person-type == "faculty" %}
+                    {% if post.person-type == "organizer" %}
                         <div class="small-12 medium-4 large-3 columns thumbnail-tile">
                             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
                                 <div class="thumbnail-container">
@@ -37,22 +41,6 @@ hero-text: "Who is part of the team"
                     {% endif %}
                 {% endif %}
             {% endfor %}
-        </div>
-    <h1 class="center">Alumni</h1>
-            <div class="row">
-            {% for post in site.posts %}
-                {% if post.post-type == "people" %}
-                    {% if post.person-type == "alumni" %}
-                        <div class="small-12 medium-4 large-2 columns thumbnail-tile">
-                            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-                                <div class="thumbnail-container">
-                                <img class="thumbnail-image" src="{{ post.thumbnail }}">
-                                <span class="thumbnail-text">{{ post.tile-name }}</span>
-                                </div>
-                            </a>
-                        </div>
-                    {% endif %}
-                {% endif %}
-            {% endfor %}
-        </div>    
+        </div>-->
+  
 </div>

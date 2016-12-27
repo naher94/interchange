@@ -1,7 +1,7 @@
 ---
 layout: people
 post-type: "people"
-person-type: "faculty"
+person-type: "organizer"
 title:  "Eddy Man Kim"
 tile-name: "Eddy Man Kim"
 thumbnail: "/img/people/eddyManKim.png"
