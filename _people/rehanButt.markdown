@@ -1,8 +1,8 @@
 ---
 layout: people
 title:  "Rehan Butt"
-thumbnail: "img/people/rehanButt.png"
-resume: "img/resume/rehanButt.pdf"
+thumbnail: "rehanButt.png"
+resume: "rehanButt.pdf"
 website: "rehanbutt.com"
 program: "MTID"
 graduation: 2017-12-15
