@@ -2,7 +2,7 @@
 layout: people
 title:  "Eddy Man Kim"
 tile-name: "Eddy Man Kim"
-thumbnail: "../img/people/eddyManKim.png"
+thumbnail: "img/people/eddyManKim.png"
 website:
 date:   2016-03-01 12:00:00 -0500
 ---
