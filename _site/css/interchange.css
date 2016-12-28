@@ -21,10 +21,18 @@ h2{
   font-size: 26px;  
 }
 
+h3{
+  font-size: 22px;
+}
+
 h4 {
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: 500;
     margin-top: 50px;
+}
+
+table thead th, table thead td, table tfoot th, table tfoot td {
+  font-weight: 500;
 }
 
 article.post {
@@ -37,6 +45,14 @@ p {
     /*margin-top: 25px;*/
     margin-bottom: 25px;
     font-size: 20px; 
+}
+
+ul {
+    padding-left: 10px;
+    padding-right: 10px;
+    /*margin-top: 25px;*/
+    margin-bottom: 25px;
+    font-size: 20px;
 }
 
 .image-center {
@@ -55,6 +71,48 @@ p {
     background: #313131;
 }
 
+code{
+  padding: 2px 1px 2px 1px;
+  border-radius: 4px;
+  font-size: 85%;
+  margin-left: 3px;
+  margin-right: 3px;
+  color: #313131;
+  background-color: rgba(0, 0, 0, 0.04);
+  border: 0px;
+  font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+}
+
+pre{
+  padding: 16px;
+  overflow: auto;
+  font-size: 85%;
+  line-height: 1.45;
+  background-color: #f7f7f7;
+  color: #313131;
+  border-radius: 3px;
+}
+
+pre code{
+  padding: 0px;
+  border-radius: 0px;
+  font-size: 100%;
+  margin-left: 0px;
+  margin-right: 0px;
+  color: #313131;
+  background-color: rgba(0, 0, 0, 0);
+  border: 0px;
+  font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  white-space: pre-wrap;       /* Since CSS 2.1 */
+  white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+  white-space: -pre-wrap;      /* Opera 4-6 */
+  white-space: -o-pre-wrap;    /* Opera 7 */
+  word-wrap: break-word;       /* Internet Explorer 5.5+ */
+/*
+  display: block;
+  line-height: 1.3;
+*/
+}
 img {
     -webkit-touch-callout: none;
     -webkit-user-select: none;
@@ -113,7 +171,7 @@ a:hover {
 }
 */
 
-p a {
+p a, li a {
   position: relative;
   text-decoration: none;
   display: inline-block;
@@ -121,7 +179,7 @@ p a {
   padding: 0 1px;
   transition: color ease 0.3s;
 }
-  p a::after {
+  p a::after, li a::after{
     content: '';
     position: absolute;
     z-index: -1;
@@ -133,14 +191,21 @@ p a {
     transition: all ease 0.3s;
   }
   
-  p a:hover {
+  p a:hover, li a:hover {
     color: white;
 }
-    p a:hover::after {
+    p a:hover::after, li a:hover::after {
       height: 100%;
     }
   
+td a {
+  color: #313131;
+  text-decoration: underline;
+}
 
+td a:hover{
+  color: black;
+}
 
 .social {
     width: 60px;
