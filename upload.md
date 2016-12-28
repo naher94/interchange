@@ -4,57 +4,83 @@ title: Upload
 ---
 # Introduction
 
-Codelab at Carnegie Mellon University is a space for interdisciplinary research in architecture, design, computation, and interaction. Members of the lab include graduate students from the [Masters in Tangible Interaction Design (MTID)](http://soa.cmu.edu/mtid/), [Emerging Media Masters (EM2)](http://ideate.cmu.edu/graduate-programs-research/emerging-media/), and [Computational Design (MSCD)](http://soa.cmu.edu/computational-design/) programs.
+Hello SoA graduate student. Welcome to the Interchange upload page. This page will give you all you need to know about submitting your work.
 
-We have a variety of digital and traditional fabrication and prototyping tools in our space, including a large laser cutter, a 3D printer, woodworking tools, a photographic documentation station, a sewing machine, and a fully equipped electronics bench.
+Each student can submit upto 4 projects. There will be a curation process for all submitted work. If any project submission a profile will be required. Every student may have a profile without the requirment of any projects.
 
-We’re located in Margaret Morrison Carnegie Hall 403.
-
+Deadline for submission is **Jan 30th 11:59pm**
 # Getting Started
 
-## Orientation
+Download the file structure template [here]().
+Upload your .zip to the [dropbox](https://goo.gl/forms/Ia76PNelAHKoNRlx1).
 
-At the beginning of the academic year all new members of Codelab undergo an orientation that includes training in safety and best practices and effective use of our tools.
+# The Meat
 
-## Trainings
+## Profile 
 
-#### EH&S-administered training
+For the companies to learn a little about you.
 
-There are four safety trainings that are compulsory for members of Codelab which are administered by [Environmental Health and Safety](http://cmu.edu/ehs), a University office. They are:
+### Requirements
 
-* [Soldering Safety](https://cmu.bioraft.com/rafttraining/course/109)
-* [Fire Extinguisher Use](https://cmu.bioraft.com/node/284572/sessions)
-* [Hazard Communication](https://cmu.bioraft.com/node/284587/sessions)
-* [Student Shop Safety](https://cmu.bioraft.com/rafttraining/course/103)
+* Headshot
+* Biography (100 word limit)
+* Program Affiliation (ie. MTID, MSCD)
+* Graduation Month & Year
 
-The Soldering Safety and Student Shop Safety trainings are completed online, and the Fire Extinguisher Use and Hazard Communication trainings require attendance at an in-person session.
+### Optionals
 
-[Bioraft](http://cmu.bioraft.com) is the University’s system for tracking and administering safety trainings. Log in to Bioraft to complete the web trainings and sign up for in-person trainings, or follow the links above to go straight to the relevant Bioraft pages.
+* Resume (PDF)
+* One Liner "what kind of position are you looking for?"
+* Personal Portfolio Link
 
-#### Codelab-administered training
+## Projects
 
-At the beginning of the academic year, Codelab members are trained on the safe and effective use of our major tools and facilities:
+For the companies to see what you do. Keep in mind that these should be easy to ready through.
 
-* Laser
-* 3D Printer
-* Wood Shop
-* Electronics Bench
-* Documentation Station
+### Requirements
 
-#Polices
+* Title
+* Completion Month & Year
+* Hero Image
+* Short Description (100 word limit)
+* Tile Image
+* Body Content
+  * Text
+  * Video (Embed code from [Youtube](https://support.google.com/youtube/answer/171780?hl=en) or [Vimeo](https://help.vimeo.com/hc/en-us/articles/224969968-Embedding-videos-overview))
+  * Images (See File Requirements)
+  * Links (`[The Clicable](http://link.com)`)
+  * Code (Github links or [MarkDown Styling](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code))
 
-## Lock the door and turn off the lights!
+## File Requirements
 
-If you are the last person leaving the space, you’re responsible for locking the door and turning out the lights. Codelab members who don’t do this are exposing the whole lab to the possibility of damage or theft.
+| Item           | File Format          | Dimensions               | File Size Maximum | Naming Convension |
+| -------------- | -------------------- | ------------------------ | ----------------- | ----------------- |
+| Headshot       | PNG                  | 470px **x** 470px        | 400 KB | firstLast.png ([Lower Camel Case](http://wiki.c2.com/?LowerCamelCase))|
+| Tile Image     | PNG                  | 500px **x** 375px        | 400 KB | projectName-ab.png (lowerCamelCase-initials.png) |
+| Hero Image     | PNG                  | ???px **x** ???px        | 1 MB   | hero.png |
+| All Other Image| PNG or GIF (animated)| <=1400px **x** <=1400px  | 1 MB   | lowerCamelCase.png or lowerCamelCase.gif |
+| Resume         | PDF                  | 8.5 **x** 11 recommended | 1 MB   | firstLast.pdf |
 
-## Common Spaces
-Codelab is lucky to have a large shared working area for collaboration, chatting, working on larger projects, etc. It’s only fair that people using the common area take responsibility for cleaning up any mess, returning tools and materials to where they belong, etc., and leaving the space ready to be used by the next person. Please be reasonable and respectful of all the other members of the space!
 
-## Monitors
-Each Codelab member has the option of borrowing one or two Dell G2210t 22” LED monitors and monitor stands to use during their time at the lab. Borrowed monitors must be returned in good condition at the end of a member’s tenure at Codelab.
+## File Structure
 
-## Desks
-Codelab members get a work desk and shelving unit. Seniority is used to determine the order of choosing desks.
+```
+andrewid.zip
+├── headshot.png
+├── resume.pdf
+├── profile.markdown
+├── project1
+│   ├── project1.markdown
+│   ├── tileImage.png
+│   ├── hero.png
+│   ├── thisImage.png
+│   └── thatImage.gif
+```
 
-## Keys
-Keys to Codelab are distributed to members who have completed all EH&S required safety trainings (see above for details on which trainings are compulsory). Members must return their keys at the end of their tenure at Codelab or the University will assess a $50 lost key fee.
+# Extras
+
+If you need help reducing the file size check out an image optimzers [ImageOptim](https://imageoptim.com) for mac & [XnView](http://www.xnview.com/en/) for windows machines.
+
+if you want to render markdown in the browser check out [Dillinger](http://dillinger.io) & if you want to know the syntax check [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+
+If you feel like making other changes to **your** pages while maintaining the style of the site, feel free to submit a pull request over at the GitHub [repo](https://github.com/naher94/interchange). The site is build using [Jekyll](https://jekyllrb.com). If you need some help setting it up check out this [tutorial](https://dzgn.io/wdw.html). Here is another [tutorial](https://scottylabs.org/portfolio/) focused on general web developement. Happy Building! <span class="emoji emoji-party"></span> <span class="emoji emoji-wrench"></span>
