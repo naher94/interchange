@@ -71,6 +71,9 @@ For the companies to see what you do. Keep in mind that these should be easy to 
   * Images (See File Requirements)
   * Links (`[The Clicable](http://link.com)`)
   * Code (Github links or [MarkDown Styling](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code))
+  
+### Other Stuff
+
 
 ## File Requirements
 
