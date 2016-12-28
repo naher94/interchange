@@ -10,7 +10,7 @@ title: People
                   <a class="post-link" href="{{ people.url | prepend: site.baseurl }}">
                       <div class="thumbnail-container">
                         <img class="thumbnail-image" src="{{ people.thumbnail }}">
-                        <span class="thumbnail-text">{{ people.tile-name }}</span>
+                        <span class="thumbnail-text">{{ people.title }}</span>
                         {% if people.program %}
                         <span class="banner {{ people.program }}">{{ people.program }}</span>
                         {% endif %}
