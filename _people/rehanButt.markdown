@@ -2,8 +2,8 @@
 layout: people
 title:  "Rehan Butt"
 tile-name: "Rehan Butt"
-thumbnail: "../img/people/rehanButt.png"
-resume: "../img/resume/rehanButt.pdf"
+thumbnail: "img/people/rehanButt.png"
+resume: "img/resume/rehanButt.pdf"
 website: "rehanbutt.com"
 program: "MTID"
 ---
