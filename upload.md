@@ -36,14 +36,14 @@ For the companies to learn a little about you.
 ### Other Stuff
 
 This is what the profile file looks like (andrewCarnegie.markdown)
-Make sure to update all the blue pieces in the file.
+Make sure to update all fields and the main section. For the optional fields if you would like to opt out please delete that line.
 
 ```
 ---
 layout: people
 title:  "Andrew Carnegie"
-thumbnail: "img/people/andrewCarnegie.png"
-resume: "img/resume/andrewCarnegie.pdf"
+thumbnail: "andrewCarnegie.png"
+resume: "andrewCarnegie.pdf"
 website: "andrewcarnegie.com"
 program: "MTID"
 graduation: 2017-12-15
