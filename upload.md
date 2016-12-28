@@ -9,6 +9,7 @@ Hello SoA graduate student. Welcome to the Interchange upload page. This page wi
 Each student can submit upto 4 projects. There will be a curation process for all submitted work. If any project submission a profile will be required. Every student may have a profile without the requirment of any projects.
 
 Deadline for submission is **Jan 30th 11:59pm**
+
 # Getting Started
 
 Download the file structure template [here](/img/template.zip).
