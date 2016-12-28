@@ -2,10 +2,11 @@
 layout: people
 title:  "Rehan Butt"
 thumbnail: "rehanButt.png"
-resume: "rehanButt.pdf"
-website: "rehanbutt.com"
 program: "MTID"
 graduation: 2017-12-15
+
+resume: "rehanButt.pdf"
+website: "rehanbutt.com"
 goal: To obtain a full-time position that will help me continue to learn and follow my passions in art and technology, while developing innovative products within the organization.
 ---
 

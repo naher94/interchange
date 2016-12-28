@@ -43,10 +43,11 @@ Make sure to update all fields and the main section. For the optional fields if 
 layout: people
 title:  "Andrew Carnegie"
 thumbnail: "andrewCarnegie.png"
-resume: "andrewCarnegie.pdf"
-website: "andrewcarnegie.com"
 program: "MTID"
 graduation: 2017-12-15
+
+resume: "andrewCarnegie.pdf"
+website: "andrewcarnegie.com"
 goal: To obtain a full-time position that will help me to awesome stuff and this and that.
 ---
 
