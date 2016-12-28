@@ -30,7 +30,7 @@ For the companies to learn a little about you.
 ### Optionals
 
 * Resume (PDF)
-* One Liner "what kind of position are you looking for?"
+* Goal / One Liner "what kind of position are you looking for?"
 * Personal Portfolio Link
 
 ## Projects
