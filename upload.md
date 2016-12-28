@@ -11,7 +11,7 @@ Each student can submit upto 4 projects. There will be a curation process for al
 Deadline for submission is **Jan 30th 11:59pm**
 # Getting Started
 
-Download the file structure template [here]().
+Download the file structure template [here](/img/template.zip).
 Upload your .zip to the [dropbox](https://goo.gl/forms/Ia76PNelAHKoNRlx1).
 
 # The Meat
@@ -36,7 +36,7 @@ For the companies to learn a little about you.
 ### Other Stuff
 
 This is what the profile file looks like (andrewCarnegie.markdown)
-Make sure to update all fields and the main section. For the optional fields if you would like to opt out please delete that line. Make sure to conform to the format below: program as an abbreviation `MAAD`,`MSAECM`,`MSBPD`,`MSSD`,`MTID`,`MSCD` and `MUD`, graduation as `YYYY-MM-DD`, no worries if you don't know the exact day, leave it at `15` if unknown.
+Make sure to update all fields and the main section. For the optional fields if you would like to opt out please delete that line. Make sure to conform to the format below: program as an abbreviation `MAAD`,`MSAECM`,`MSBPD`,`MSSD`,`MTID`,`MSCD` and `MUD`, graduation as `YYYY-MM-DD`, no worries if you don't know the exact day, leave it at `15` if unknown and make sure to match casing `Andrew Carnegie` **not** `andrew carnegie`.
 
 ```
 ---
@@ -74,6 +74,39 @@ For the companies to see what you do. Keep in mind that these should be easy to 
   
 ### Other Stuff
 
+This is what a project file looks like. Named `projectName-intials.markdown` just like the project folder. Make sure to conform to the formatting below including casing `Andrew Carnegie` **not** `andrew carnegie`. Again data is `YYYY-MM-DD`. `tile-name` is to give a peak at the project before clicking it, generally better to make this slightly generic `Photoshop Plugin` over `Pixel Scaling Function`. Tags are a good way to help people find your project. Tags are space seperated. Here is a list of tags available to you.
+
+* tag
+* tag2
+* tag3
+* tag4
+
+```
+---
+layout: post
+title:  "Project Name"
+tile-name: "Photoshop Plugin"
+thumbnail: "coLab-rb.png"
+author: "Andrew Carnegie"
+date:   2016-03-01
+
+tags: digital branding
+---
+
+![Hero Image](/img/projectName-ac/hero.png)
+
+Your short description goes here. 100 word max.
+
+this is what an image looks like
+![2 Word Image Description](/img/projectName-ac/thisImage.png)
+
+this is what a video embed looks. please update width to be `100%` and height to be `600` otherwise it will break on mobile devices.
+
+<iframe width="100%" height="600" src="https://www.youtube.com/embed/IdneKLhsWOQ" frameborder="0" allowfullscreen></iframe>
+
+and this is how you include a link into stuff [link](http://cmu.edu). want to see where the link goes?
+
+```
 
 ## File Requirements
 

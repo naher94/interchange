@@ -21,3 +21,6 @@ markdown: kramdown
 collections:
   people:
     output: true
+    
+  project:
+    output: true

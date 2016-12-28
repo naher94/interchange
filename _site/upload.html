@@ -69,7 +69,7 @@
 <p>Deadline for submission is <strong>Jan 30th 11:59pm</strong></p>
 <h1 id="getting-started">Getting Started</h1>
 
-<p>Download the file structure template <a href="">here</a>.
+<p>Download the file structure template <a href="/img/template.zip">here</a>.
 Upload your .zip to the <a href="https://goo.gl/forms/Ia76PNelAHKoNRlx1">dropbox</a>.</p>
 
 <h1 id="the-meat">The Meat</h1>
@@ -98,7 +98,7 @@ Upload your .zip to the <a href="https://goo.gl/forms/Ia76PNelAHKoNRlx1">dropbox
 <h3 id="other-stuff">Other Stuff</h3>
 
 <p>This is what the profile file looks like (andrewCarnegie.markdown)
-Make sure to update all fields and the main section. For the optional fields if you would like to opt out please delete that line. Make sure to conform to the format below: program as an abbreviation <code class="highlighter-rouge">MAAD</code>,<code class="highlighter-rouge">MSAECM</code>,<code class="highlighter-rouge">MSBPD</code>,<code class="highlighter-rouge">MSSD</code>,<code class="highlighter-rouge">MTID</code>,<code class="highlighter-rouge">MSCD</code> and <code class="highlighter-rouge">MUD</code>, graduation as <code class="highlighter-rouge">YYYY-MM-DD</code>, no worries if you don’t know the exact day, leave it at <code class="highlighter-rouge">15</code> if unknown.</p>
+Make sure to update all fields and the main section. For the optional fields if you would like to opt out please delete that line. Make sure to conform to the format below: program as an abbreviation <code class="highlighter-rouge">MAAD</code>,<code class="highlighter-rouge">MSAECM</code>,<code class="highlighter-rouge">MSBPD</code>,<code class="highlighter-rouge">MSSD</code>,<code class="highlighter-rouge">MTID</code>,<code class="highlighter-rouge">MSCD</code> and <code class="highlighter-rouge">MUD</code>, graduation as <code class="highlighter-rouge">YYYY-MM-DD</code>, no worries if you don’t know the exact day, leave it at <code class="highlighter-rouge">15</code> if unknown and make sure to match casing <code class="highlighter-rouge">Andrew Carnegie</code> <strong>not</strong> <code class="highlighter-rouge">andrew carnegie</code>.</p>
 
 <div class="highlighter-rouge"><pre class="highlight"><code>---
 layout: people
@@ -140,6 +140,42 @@ This is where your bio goes. Etiam lacinia, lectus quis sollicitudin ultrices, l
 </ul>
 
 <h3 id="other-stuff-1">Other Stuff</h3>
+
+<p>This is what a project file looks like. Named <code class="highlighter-rouge">projectName-intials.markdown</code> just like the project folder. Make sure to conform to the formatting below including casing <code class="highlighter-rouge">Andrew Carnegie</code> <strong>not</strong> <code class="highlighter-rouge">andrew carnegie</code>. Again data is <code class="highlighter-rouge">YYYY-MM-DD</code>. <code class="highlighter-rouge">tile-name</code> is to give a peak at the project before clicking it, generally better to make this slightly generic <code class="highlighter-rouge">Photoshop Plugin</code> over <code class="highlighter-rouge">Pixel Scaling Function</code>. Tags are a good way to help people find your project. Tags are space seperated. Here is a list of tags available to you.</p>
+
+<ul>
+  <li>tag</li>
+  <li>tag2</li>
+  <li>tag3</li>
+  <li>tag4</li>
+</ul>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>---
+layout: post
+title:  "Project Name"
+tile-name: "Photoshop Plugin"
+thumbnail: "coLab-rb.png"
+author: "Andrew Carnegie"
+date:   2016-03-01
+
+tags: digital branding
+---
+
+![Hero Image](/img/projectName-ac/hero.png)
+
+Your short description goes here. 100 word max.
+
+this is what an image looks like
+![2 Word Image Description](/img/projectName-ac/thisImage.png)
+
+this is what a video embed looks. please update width to be `100%` and height to be `600` otherwise it will break on mobile devices.
+
+&lt;iframe width="100%" height="600" src="https://www.youtube.com/embed/IdneKLhsWOQ" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+and this is how you include a link into stuff [link](http://cmu.edu). want to see where the link goes?
+
+</code></pre>
+</div>
 
 <h2 id="file-requirements">File Requirements</h2>
 
