@@ -3,7 +3,7 @@ layout: post
 post-type: "project"
 title:  "CoLab (Sketch Plugin)"
 tile-name: "Link Test"
-thumbnail: "img/thumbnails/coLab.png"
+thumbnail: "../img/thumbnails/coLab.png"
 author: "Rehan Butt"
 date:   2016-03-01 12:00:00 -0500
 tags: digital branding
