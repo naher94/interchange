@@ -11,7 +11,7 @@ Each student can submit upto 4 projects. There will be a curation process for al
 Deadline for submission is **Jan 30th 11:59pm**
 # Getting Started
 
-Download the file structure template [here]().
+Download the file structure template [here](/img/template.zip).
 Upload your .zip to the [dropbox](https://goo.gl/forms/Ia76PNelAHKoNRlx1).
 
 # The Meat
