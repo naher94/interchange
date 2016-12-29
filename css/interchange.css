@@ -473,7 +473,9 @@ div.medium-4.columns.medium-offset-4.footerRight{
     opacity: 1;
 }
 
-
+iframe{
+  height: 600px;
+}
 /*measurments pulled from foundation css file*/
 
 /*for mobile friendly styling*/
@@ -521,7 +523,6 @@ div.medium-4.columns.medium-offset-4.footerRight{
   }
 }
 /* ************************************** */
-
 
 
 .pro-pic-container {
