@@ -496,6 +496,14 @@ div.medium-4.columns.medium-offset-4.footerRight{
     line-height: 130px;
   }
   
+  .banner{
+    top: 5px;
+    right: 5px;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    font-size: 14px;
+  }
   
 }
 
