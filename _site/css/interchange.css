@@ -266,14 +266,9 @@ header {
     /*font-weight: 600;*/
     background-color: white;
     overflow: hidden;
+    margin-bottom: 50px;
 
 }
-
-/*
-.interchangeLogo{
-    margin-top: -450px;
-}
-*/
 
 .button{
     padding: 20px 20px 20px 20px;
@@ -346,9 +341,18 @@ header {
     text-align: center;
 }
 
-.site-footer{
+footer{
   color: #b5b5b5;
 }
+
+footerLeft{
+  
+}
+
+div.medium-4.columns.medium-offset-4.footerRight{
+  text-align:right;
+}
+
 .outerspace {
     background-color: #26153C;
     width: 100%;
@@ -438,7 +442,7 @@ header {
 .program-container {
   width: 200px;
   height: 200px;
-  border-radius: 100%;
+  border-radius: 50%;
   background-color: black;
   text-align: center;
   margin: auto;
@@ -468,6 +472,71 @@ header {
 .thumbnail-container:hover .program-extended-text {
     opacity: 1;
 }
+
+.row{
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+iframe{
+  height: 600px;
+}
+/*measurments pulled from foundation css file*/
+
+/*for mobile friendly styling*/
+@media screen and (max-width: 40em) {
+  
+  header{
+    background-size: 400%;
+    height: 200px;
+    margin-bottom: 10px;
+  }
+  
+  footerLeft, div.medium-4.columns.medium-offset-4.footerRight, footer{
+    text-align: center;
+  }
+  
+  .program-container{
+    width: 130px;
+    height: 130px;
+  }
+  
+  .program-text{
+    line-height: 130px;
+  }
+  
+  .banner{
+    top: 5px;
+    right: 5px;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    font-size: 14px;
+  }
+  
+  iframe{
+    height: 220px;
+  }
+  
+  .profileCol{
+    margin-bottom: 10px;
+  }
+  
+  .pageTitle{
+    margin-bottom: 10px;
+  }
+  
+}
+
+/*for tablet friendly styling*/
+@media screen and (max-width: 64em) {
+
+  iframe{
+    height: 360px;
+  }
+}
+/* ************************************** */
+
 
 .pro-pic-container {
     position: relative;

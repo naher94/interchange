@@ -2,10 +2,9 @@
 layout: default
 title: People
 ---
-<div class="row">
     <h1 class="pageTitle center">Students</h1>
-        <div class="row">
-            {% for people in site.people %}
+            {% assign sorted_people = (site.people | sort: 'title') %}
+            {% for people in sorted_people %}
               <div class="small-6 medium-4 large-3 columns thumbnail-tile">
                   <a class="post-link" href="{{ people.url | prepend: site.baseurl }}">
                       <div class="thumbnail-container">
@@ -18,7 +17,6 @@ title: People
                   </a>
               </div>
             {% endfor %}
-        </div>
   
 <!--    <h1 class="center">Organizers</h1>
             <div class="row">
@@ -37,5 +35,3 @@ title: People
                 {% endif %}
             {% endfor %}
         </div>-->
-  
-</div>

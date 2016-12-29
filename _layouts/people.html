@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-<div class="row">
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
   <div class="post-header">
@@ -12,7 +11,7 @@ layout: default
     
   </div>
 
-<div class="small-12 medium-4 large-3 columns">
+<div class="small-10 small-centered medium-4 medium-uncentered large-3 columns profileCol">
     <div class="pro-pic-container">
       <img src="../img/people/{{ page.thumbnail }}" style="width:100%">
       
@@ -49,7 +48,9 @@ layout: default
 
   <div class="row" style="margin-top:50px;">      
   {% for project in site.project %}
-      {% if project.author == page.title %}
+    {% assign post_author = project.author | downcase %}
+    {% assign page_author = page.title | downcase %}
+      {% if post_author == page_author %}
           <div class="small-6 medium-4 columns thumbnail-tile">
           <a class="post-link" href="{{ project.url | prepend: site.baseurl }}">
               <div class="thumbnail-container">
@@ -65,4 +66,3 @@ layout: default
 </div>
 
 </article>
-</div>
