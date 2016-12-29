@@ -101,7 +101,7 @@ Your short description goes here. 100 word max.
 this is what an image looks like
 ![2 Word Image Description](/img/projectName-ac/thisImage.png)
 
-this is what a video embed looks. please update width to be `100%` and height to be `600` otherwise it will break on mobile devices.
+this is what a video embed looks. please update width to be `100%` and remove `height="600"` otherwise it will break on mobile devices.
 
 <iframe width="100%" height="600" src="https://www.youtube.com/embed/IdneKLhsWOQ" frameborder="0" allowfullscreen></iframe>
 
