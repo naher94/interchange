@@ -442,7 +442,7 @@ div.medium-4.columns.medium-offset-4.footerRight{
 .program-container {
   width: 200px;
   height: 200px;
-  border-radius: 100%;
+  border-radius: 50%;
   background-color: black;
   text-align: center;
   margin: auto;
