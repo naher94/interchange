@@ -507,11 +507,18 @@ div.medium-4.columns.medium-offset-4.footerRight{
     font-size: 14px;
   }
   
+  iframe{
+    height: 220px;
+  }
+  
 }
 
 /*for tablet friendly styling*/
 @media screen and (max-width: 64em) {
 
+  iframe{
+    height: 360px;
+  }
 }
 /* ************************************** */
 
