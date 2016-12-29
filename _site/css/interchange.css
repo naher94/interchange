@@ -473,6 +473,11 @@ div.medium-4.columns.medium-offset-4.footerRight{
     opacity: 1;
 }
 
+.row{
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
 iframe{
   height: 600px;
 }
@@ -514,6 +519,10 @@ iframe{
   }
   
   .profileCol{
+    margin-bottom: 10px;
+  }
+  
+  .pageTitle{
     margin-bottom: 10px;
   }
   
