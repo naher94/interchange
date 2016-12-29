@@ -3,7 +3,8 @@ layout: default
 title: People
 ---
     <h1 class="pageTitle center">Students</h1>
-            {% for people in site.people %}
+            {% assign sorted_people = (site.people | sort: 'title') %}
+            {% for people in sorted_people %}
               <div class="small-6 medium-4 large-3 columns thumbnail-tile">
                   <a class="post-link" href="{{ people.url | prepend: site.baseurl }}">
                       <div class="thumbnail-container">
