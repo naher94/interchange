@@ -487,6 +487,15 @@ div.medium-4.columns.medium-offset-4.footerRight{
     text-align: center;
   }
   
+  .program-container{
+    width: 180px;
+    height: 180px;
+  }
+  
+  .program-text{
+    line-height: 180px;
+  }
+  
   
 }
 
