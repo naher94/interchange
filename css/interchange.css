@@ -266,6 +266,7 @@ header {
     /*font-weight: 600;*/
     background-color: white;
     overflow: hidden;
+    margin-bottom: 50px;
 
 }
 
@@ -481,6 +482,7 @@ div.medium-4.columns.medium-offset-4.footerRight{
   header{
     background-size: 400%;
     height: 200px;
+    margin-bottom: 0px;
   }
   
   footerLeft, div.medium-4.columns.medium-offset-4.footerRight, footer{
