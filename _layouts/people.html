@@ -48,7 +48,9 @@ layout: default
 
   <div class="row" style="margin-top:50px;">      
   {% for project in site.project %}
-      {% if (project.author | downcase) == (page.title | downcase) %}
+    {% assign post_author = project.author | downcase %}
+    {% assign page_author = page.title | downcase %}
+      {% if post_author == page_author %}
           <div class="small-6 medium-4 columns thumbnail-tile">
           <a class="post-link" href="{{ project.url | prepend: site.baseurl }}">
               <div class="thumbnail-container">
