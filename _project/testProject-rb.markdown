@@ -3,10 +3,10 @@ layout: post
 title:  "Project Name"
 tile-name: "Sketch Plugin"
 thumbnail: "coLab-rb.png"
-author: "Rehan Butt"
+author: "rehan butt"
 date:   2016-03-01
 
-tags: digital branding
+tags: digital branding featured
 ---
 
 ![Hero Image](/img/projectName-ac/hero.png)
