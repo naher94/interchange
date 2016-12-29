@@ -269,25 +269,6 @@ header {
 
 }
 
-/*measurments pulled from foundation css file*/
-
-/*for mobile friendly styling*/
-@media screen and (max-width: 40em) {
-  
-  header{
-    background-size: 400%;
-    height: 200px;
-  }
-  
-  
-}
-
-/*for tablet friendly styling*/
-@media screen and (max-width: 64em) {
-
-}
-/* ************************************** */
-
 .button{
     padding: 20px 20px 20px 20px;
     font-size: 24px;
@@ -359,9 +340,18 @@ header {
     text-align: center;
 }
 
-.site-footer{
+footer{
   color: #b5b5b5;
 }
+
+footerLeft{
+  
+}
+
+div.medium-4.columns.medium-offset-4.footerRight{
+  text-align:right;
+}
+
 .outerspace {
     background-color: #26153C;
     width: 100%;
@@ -481,6 +471,32 @@ header {
 .thumbnail-container:hover .program-extended-text {
     opacity: 1;
 }
+
+
+/*measurments pulled from foundation css file*/
+
+/*for mobile friendly styling*/
+@media screen and (max-width: 40em) {
+  
+  header{
+    background-size: 400%;
+    height: 200px;
+  }
+  
+  footerLeft, div.medium-4.columns.medium-offset-4.footerRight, footer{
+    text-align: center;
+  }
+  
+  
+}
+
+/*for tablet friendly styling*/
+@media screen and (max-width: 64em) {
+
+}
+/* ************************************** */
+
+
 
 .pro-pic-container {
     position: relative;
