@@ -484,7 +484,7 @@ iframe{
   header{
     background-size: 400%;
     height: 200px;
-    margin-bottom: 0px;
+    margin-bottom: 10px;
   }
   
   footerLeft, div.medium-4.columns.medium-offset-4.footerRight, footer{
@@ -511,6 +511,10 @@ iframe{
   
   iframe{
     height: 220px;
+  }
+  
+  .profileCol{
+    margin-bottom: 10px;
   }
   
 }
