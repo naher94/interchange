@@ -57,21 +57,22 @@ layout: default
   </div>
 
 <!--Setting up featured projects-->
-<h1 class="h1 pageTitle center" style="margin-top:50px;">Featured Projects</h1>
+<!-- Add tag 'featured' to post-->
+<h1 class="h1 pageTitle center" style="margin-top:50px;">Featured Projects (Coming Soon)</h1>
 
   {% for project in site.project %}
-  {% for tag in project.tags %} <!--loop through all tags for a post-->
-  {% if tag == "featured" %}
-      <div class="small-6 medium-4 large-3 columns thumbnail-tile">
-        <a class="post-link" href="{{ project.url | prepend: site.baseurl }}">
-            <div class="thumbnail-container">
-            <img class="thumbnail-image" src="img/thumbnails/{{ project.thumbnail }}">
-            <span class="thumbnail-text">{{ project.tile-name }}</span>
-            </div>
-        </a>
-    </div>
-  {% endif %}
-  {% endfor %}
+    {% for tag in project.tags %} <!--loop through all tags for a post-->
+      {% if tag == "featured" %}
+          <div class="small-6 medium-4 large-3 columns thumbnail-tile">
+            <a class="post-link" href="{{ project.url | prepend: site.baseurl }}">
+                <div class="thumbnail-container">
+                <img class="thumbnail-image" src="img/thumbnails/{{ project.thumbnail }}">
+                <span class="thumbnail-text">{{ project.tile-name }}</span>
+                </div>
+            </a>
+        </div>
+      {% endif %}
+    {% endfor %}
   {% endfor %}
 
 
