@@ -345,12 +345,16 @@ footer{
   color: #b5b5b5;
 }
 
-footerLeft{
+.footerLeft{
   
 }
 
-div.medium-4.columns.medium-offset-4.footerRight{
+div.medium-4.columns.footerRight{
   text-align:right;
+}
+
+.footerCenter{
+  text-align: center;
 }
 
 .outerspace {
@@ -389,6 +393,16 @@ div.medium-4.columns.medium-offset-4.footerRight{
 }
 .rehanLogo{
   height: 18px;
+}
+.soaLogo{
+  height: 40px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.cmuLogo{
+  height: 40px;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 .noSelect{
@@ -492,8 +506,13 @@ iframe{
     margin-bottom: 10px;
   }
   
-  footerLeft, div.medium-4.columns.medium-offset-4.footerRight, footer{
+  footerLeft, div.medium-4.columns.footerRight, footer{
     text-align: center;
+  }
+  
+  .footerCenter{
+    padding-top: 20px;
+    padding-bottom: 20px;
   }
   
   .program-container{
