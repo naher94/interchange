@@ -6,7 +6,7 @@ thumbnail: "coLab-rb.png"
 author: "rehan butt"
 date:   2016-03-01
 
-tags: digital branding featured
+tags: digital branding
 ---
 
 ![Hero Image](/img/projectName-ac/hero.png)
