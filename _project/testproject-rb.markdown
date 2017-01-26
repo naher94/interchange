@@ -9,7 +9,7 @@ date:   2016-03-01
 tags: digital branding
 ---
 
-![Hero Image](img/testproject2-rb/hero.png)
+![Hero Image](/img/testproject2-rb/hero.png)
 
 Your short description goes here. 100 word max.
 
