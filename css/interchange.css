@@ -18,7 +18,7 @@ h1{
 }
 
 h2{
-  font-size: 26px;  
+  font-size: 26px;
 }
 
 h3{
@@ -44,7 +44,7 @@ p {
     padding-right: 10px;
     /*margin-top: 25px;*/
     margin-bottom: 25px;
-    font-size: 20px; 
+    font-size: 20px;
 }
 
 ul {
@@ -131,7 +131,7 @@ img {
 
 .navItem {
     color: #313131;
-    font-size: 20px; 
+    font-size: 20px;
     /*margin: 10px;*/
     padding-left: 20px;
     font-weight: 700;
@@ -190,14 +190,14 @@ p a, li a {
     background-color: #313131;
     transition: all ease 0.3s;
   }
-  
+
   p a:hover, li a:hover {
     color: white;
 }
     p a:hover::after, li a:hover::after {
       height: 100%;
     }
-  
+
 td a {
   color: #313131;
   text-decoration: underline;
@@ -346,7 +346,11 @@ footer{
 }
 
 .footerLeft{
-  
+  line-height: 45px;
+}
+
+.footerRight{
+  line-height: 45px;
 }
 
 div.medium-4.columns.footerRight{
@@ -511,31 +515,31 @@ iframe{
 
 /*for mobile friendly styling*/
 @media screen and (max-width: 40em) {
-  
+
   header{
     background-size: 400%;
     height: 200px;
     margin-bottom: 10px;
   }
-  
+
   footerLeft, div.medium-4.columns.footerRight, footer{
     text-align: center;
   }
-  
+
   .footerCenter{
     padding-top: 20px;
     padding-bottom: 20px;
   }
-  
+
   .program-container{
     width: 130px;
     height: 130px;
   }
-  
+
   .program-text{
     line-height: 130px;
   }
-  
+
   .banner{
     top: 5px;
     right: 5px;
@@ -544,19 +548,19 @@ iframe{
     line-height: 50px;
     font-size: 14px;
   }
-  
+
   iframe{
     height: 220px;
   }
-  
+
   .profileCol{
     margin-bottom: 10px;
   }
-  
+
   .pageTitle{
     margin-bottom: 10px;
   }
-  
+
 }
 
 /*for tablet friendly styling*/

@@ -3,18 +3,18 @@ layout: post
 title:  "Project Name"
 tile-name: "Sketch Plugin"
 thumbnail: "coLab-rb.png"
-author: "rehan butt"
+author: "Rehan Butt"
 date:   2016-03-01
 
 tags: digital branding
 ---
 
-![Hero Image](/img/projectName-ac/hero.png)
+![Hero Image](/img/testproject2-rb/hero.png)
 
 Your short description goes here. 100 word max.
 
 this is what an image looks like
-![2 Word Image Description](/img/projectName-ac/thisImage.png)
+![2 Word Image Description](/img/testproject2-rb/thisImage.png)
 
 this is what a video embed looks. please update width to be `100%` and height to be `600` otherwise it will break on mobile devices.
 
