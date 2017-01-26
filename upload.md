@@ -77,7 +77,7 @@ For the companies to see what you do. Keep in mind that these should be easy to 
 
 ### Other Stuff
 
-This is what a project file looks like. Named `projectname-intials.markdown` just like the project folder. Make sure to conform to the formatting below including casing `Andrew Carnegie` **not** `andrew carnegie`. Again data is `YYYY-MM-DD`. `tile-name` is to give a peak at the project before clicking it, generally better to make this slightly generic `Photoshop Plugin` over `Pixel Scaling Function`. Tags are a good way to help people find your project. Tags are space seperated. Here is a list of available tags.
+This is what a project file looks like. Named `projectname-intials.markdown` just like the project folder. Make sure to conform to the formatting below including casing `Andrew Carnegie` **not** `andrew carnegie`. Again data is `YYYY-MM-DD`. `tile-name` is to give a peek at the project before clicking it, generally better to make this slightly generic `Photoshop Plugin` over `Pixel Scaling Function`. Tags are a good way to help people find your project. Tags are space seperated. Here is a list of available tags.
 
 * tag
 * tag2
