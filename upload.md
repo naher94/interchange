@@ -15,6 +15,8 @@ Deadline for submission is **Feb 9th 11:59pm**
 Download the file structure template [here](/img/template.zip).
 Upload your .zip to the [dropbox](https://goo.gl/forms/Ia76PNelAHKoNRlx1).
 
+Included in the template are also 2 release form that need to be signed for us to present your work. Please make sure to will them out.
+
 You must be logged in with your `andrew` google account to upload
 
 # The Meat
