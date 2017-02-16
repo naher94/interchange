@@ -1,7 +1,7 @@
 ---
 layout: people
 title:  "Lu Zhu"
-thumbnail: "LuZhu.png"
+thumbnail: "luZhu.png"
 program: "MUD"
 graduation: 2018-5-15
 resume: "luZhu.pdf"
