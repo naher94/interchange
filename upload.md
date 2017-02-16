@@ -17,6 +17,8 @@ Upload your .zip to the [dropbox](https://goo.gl/forms/Ia76PNelAHKoNRlx1).
 
 Included in the template are also 2 release forms that need to be signed for us to present your work.
 
+Upload your .pdf poster to this [poster dropbox](https://goo.gl/forms/BfeWI7ycZC48Fr3x1).
+
 You must be logged in with your `andrew` google account to upload
 
 # The Meat
