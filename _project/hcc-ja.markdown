@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "HyperMobile Commuter City"
-tile-name: "Final Research Dissertation Project"
+tile-name: "HyperMobile Commuter City"
 thumbnail: "hcc-ja.png"
 author: "Javier Argota"
 date:   2014-10-25
