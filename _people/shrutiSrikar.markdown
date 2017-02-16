@@ -1,7 +1,7 @@
 ---
 layout: people
 title:  "Shruti Srikar"
-thumbnail: "ShrutiSrikar.jpg"
+thumbnail: "shrutiSrikar.jpg"
 program: "MSAECM"
 graduation: 2017-12-20
 
