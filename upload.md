@@ -17,6 +17,8 @@ Upload your .zip to the [dropbox](https://goo.gl/forms/Ia76PNelAHKoNRlx1).
 
 Included in the template are also 2 release forms that need to be signed for us to present your work.
 
+Deadline for the poster Submission is Sunday **Feb 19th at 11:59pm**. Poster dimensions must be 24in x 36in
+
 Upload your .pdf poster to this [poster dropbox](https://goo.gl/forms/BfeWI7ycZC48Fr3x1).
 
 You must be logged in with your `andrew` google account to upload
@@ -81,12 +83,7 @@ For the companies to see what you do. Keep in mind that these should be easy to 
 
 ### Other Stuff
 
-This is what a project file looks like. Named `projectname-intials.markdown` just like the project folder. Make sure to conform to the formatting below including casing `Andrew Carnegie` **not** `andrew carnegie`. Again data is `YYYY-MM-DD`. `tile-name` is to give a peek at the project before clicking it, generally better to make this slightly generic `Photoshop Plugin` over `Pixel Scaling Function`. Tags are a good way to help people find your project. Tags are space separated. Here is a list of available tags.
-
-* tag
-* tag2
-* tag3
-* tag4
+This is what a project file looks like. Named `projectname-intials.markdown` just like the project folder. Make sure to conform to the formatting below including casing `Andrew Carnegie` **not** `andrew carnegie`. Again data is `YYYY-MM-DD`. `tile-name` is to give a peek at the project before clicking it, generally better to make this slightly generic `Photoshop Plugin` over `Pixel Scaling Function`. Tags are a good way to help people find your project. 
 
 ```
 ---
