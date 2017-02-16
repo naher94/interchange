@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Interchange | Tiny SimCity</title>
+    <meta name="description" content="">
+
+    <meta name="keywords" content="Design,Architecture,Carnegie Mellon,UX,Web,Development,3D,2D,making,building,apps">
+    <meta name="author" content="Rehan Butt + SoA Student Works">
+    <link rel="icon" type="image/png" href="../img/favicon.png"/>
+    <link rel="shortcut icon" type="image/png" href="../img/favicon.png"/>
+    <link rel="apple-touch-icon" type="image/png" href="../img/favicon.png"/>
+    <link rel="apple-touch-icon" type="image/png" href="../img/favicon.png" sizes="76x76"/>
+    <link rel="apple-touch-icon" type="image/png" href="../img/favicon.png" sizes="120x120"/>
+    <link rel="apple-touch-icon" type="image/png" href="../img/favicon.png" sizes="152x152"/>
+    
+    <link rel="stylesheet" href="/css/foundation.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/css/interchange.css"/>
+    <link rel="stylesheet" href="/css/emoji.css"/>
+    <link rel="canonical" href="http://localhost:4000/project/tinySimCity-ja.html">
+</head>
+
+  <body>
+
+    <header>
+    <a href="/">
+    <!--<img class="interchangeLogo" src="../img/InterchangeLogo.svg">-->
+    </a>
+    <div class="nav">
+        <a class="navItem" href="/index.html">Home</a>
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+          <a class="navItem" href="/people.html">People</a>
+          
+        
+          
+          <a class="navItem" href="/projects.html">Projects</a>
+          
+        
+          
+          <a class="navItem" href="/upload.html">Upload</a>
+          
+            
+    </div>
+</header>
+
+    <div class="small-12 medium-8 large-8 row">
+    
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <div class="post-header">
+    <h1 class="post-title" itemprop="name headline">Tiny SimCity</h1>
+    <p class="post-meta"><time datetime="2016-12-18T00:00:00-05:00" itemprop="datePublished">December 2016</time>  • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name"><a href="/people/javierargota">Javier Argota</a></span></span></p>
+  </div>
+
+  <div class="post-content" itemprop="articleBody">
+    <p><img src="/img/tinySimCity-ja/hero.png" alt="Hero Image" /></p>
+
+<iframe width="100%" src="https://www.youtube.com/embed/X44-5017v1Q" frameborder="0" allowfullscreen=""></iframe>
+
+<p>GENERAL DESCRIPTION</p>
+
+<p>The purpose of this small tool is developing a simple and comprehensive simulator of urban settlements growth for being used to provide realistic urban backgrounds for design purposes: for inserting a building, for testing urban strategies, etc. The development of urban grids can match different patterns and the aim of this piece of software is replicate some of the patterns observed throughout different human settlements from different historical moments and different cultural contexts. This software tries to engage the user by causing the initialization of the urban development from inputs decided and chosen by the user. 
+From the seeds created by the user on the canvas, different patterns can be created procedurally to build up an interconnected network of edges and nodes similar to the found in many human settlements around the world.</p>
+
+<p><img src="/img/tinySimCity-ja/Sintitulo-ja-01.png" alt="output" /></p>
+
+<p>HELP TEXT (INSTRUCTIONS)</p>
+
+<p>TinySimCity is a synthetic city builder which allows to create procedural random cities from scratch. The builder is divided in two different windows: the GUI window for guiding the process and the introduction of variables, and the map window where the output can be previewed.
+The process has three steps, accurately informed by the interface. Before every step the user needs to set the input variable which will control the building process.</p>
+<ol>
+  <li>Street builder
+Before press START, user needs to set the size of the city in pixels (which will be the size of the builder windows) and the minimum size of the city block. Then press START and the builder window will be opened and the network of streets will start to grow. By clicking on one of the ends of a street, it will be removed and a new one in a random direction will be created. If click happens in an empty part of the map, just a new street will be created.</li>
+  <li>Buildings placing
+While streets are built, user can set the maximum number of buildings to be placed on the city. The buildings placing step is initiated when user press the “next” button on the GUI window when the street builder is running. In the GUI window displayed while the buildings are placed new buildings can be added if desired. Additional, clicking on any already placed building in the map.</li>
+  <li>3D builder.
+Once all the desired buildings are placed on the map, by clicking on the NEXT button on the GUI window the 3D, a Hejduk perspective of the city is built. Additionally, from the GUI window, the colors of the buildings shading can be changed, as well as the orientation of the view. Finally, the work can be saved and exported as a JPG image which will be saved in the script folder.</li>
+</ol>
+
+<p><img src="/img/tinySimCity-ja/Sintitulo-ja-02.png" alt="output" /></p>
+
+<p>ALGOTHMIC STRATEGY</p>
+
+<p>TinySimCity is a small low resolution simulator of urban patterns which is able to render a synthetic procedural city.
+The generation of the city is based on rules defined by the programation and on parameters decided by the user.</p>
+
+<p>In a general level, the city generation is divided in three clear steps:</p>
+
+<ol>
+  <li>Ways builder. The proposed rules-based generation starts with three seed lines with random direction, which are used as based and reference for tracing the rest of the network by perpendicular trajectories. Lines grow until they collide with another line, with the only restriction of a minimum distance between new intersections, for keeping a feasible city block size.
+Once the user decides the basic urban network is finished, it can initialize the following routine:</li>
+  <li>Buildings placing. Taking as reference the directions of the streets, random rectangles are created at random locations. Once created, they start to move in the map and to rotate until they find the right position, which is aligned with the streets and at a particular distance which is at least half of the way width. Basically, buildings cannot overlap other buildings or streets.</li>
+  <li>After all the required buildings are placed, finally a 3D perspective is built (actually it is a 2.5D perspective, a Hejduk perspective without reduction in the Z axis). The biggest challenge in this routine is actually figuring out the particular order of drawing in 2D for displaying accurately the different shapes in the right order. The main strategy is based in sorting according to the y coordinate value. Lower values should be drawn before.
+Additionally the program allows at the end to save the drawn city as an image.</li>
+</ol>
+
+<p>GRAPHIC USER INTERFACE</p>
+
+<p>TinySimCity starts with a window for the user input and the menus. This floating window for menu is different than the actual windows for the city builder itself. Due to the variable resolution which can be used in the program, the strategy of the floating menus is chosen for making the most of the space on the screen. Furthermore, it avoids wasted space by blank areas. The menu changes its design in every step of the process of design, allowing to the user to enter the required parameters. As well, this menu window contains the help information. This way, the other window managed by the program, the canvas itself where the city is built, it is exclusively used for running the output of the coding. Another feature implemented in the GUI is having the possibility of navigate back and forwards through any step and correcting and changing your decisions during the building process.</p>
+
+
+  </div>
+
+</article>
+    
+    </div>
+
+    <footer class="site-footer">
+  <div class="row">
+    <div class="medium-4 columns footerLeft">
+      <!--<a target="_blank" href="/upload">Student Guide</a>
+      <br>-->
+      <span class="copyright noSelect">Copyright Interchange</span>
+    </div>
+
+    <div class="medium-4 columns footerCenter">
+      <a target="_blank" href="http://soa.cmu.edu"><img class="soaLogo" src="/img/soaLogo.svg"></a>
+      <a target="_blank" href="http://cmu.edu"><img class="cmuLogo" src="/img/cmuLogo.svg"></a>
+    </div>
+
+    <div class="medium-4 columns footerRight">
+      <span class="fa-stack fa-1x">
+        <i class="fa fa-pencil fa-stack-1x"></i>
+      </span>
+      with
+      <span class="fa-stack fa-1x">
+        <i class="fa fa-heart fa-stack-1x"></i>
+      </span>
+      by &nbsp;
+      <a target="_blank" href="http://rehanbutt.com"><img class="rehanLogo" src="/img/rehanLogo.svg"></a>
+    </div>
+  </div>
+</footer>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-49316908-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+  </body>
+
+</html>
