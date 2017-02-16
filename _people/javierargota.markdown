@@ -5,7 +5,7 @@ thumbnail: "javierArgota.png"
 program: "MSCD"
 graduation: 2018-05-15
 
-resume: "JArgotaCV.pdf"
+resume: "javierArgota.pdf"
 website: "jard.us"
 goal: Keeping working 24/7 between new technologies and design.
 ---
