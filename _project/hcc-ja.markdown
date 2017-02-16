@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "HyperMobile Comuuter City"
+title:  "HyperMobile Commuter City"
 tile-name: "Final Research Dissertation Project"
 thumbnail: "hcc-ja.png"
 author: "Javier Argota"
