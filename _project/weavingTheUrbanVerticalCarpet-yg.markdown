@@ -39,11 +39,11 @@ green space typologies.
 
 As the site has existed for a long time in history under the circumstance of complex topography, historical events which have influenced it all the time that brought about its unique characteristics but also issues. As the collage at bottom shows: war refugees, hillside agriculture, informality with topography brilliant view of the port and the city, and lonely residence are the main factors compose the site, they are thorny to handle, but of many possibilities to be created.
 
-![2 Word Image Description](/img/weavingTheUrbanVerticalCarpet-yg/historyContext.png)
-
 Concept
 Phase 1: Cracks between the city, mountain and the site. 
+
 Phase 2: Weaving the vertical carpet to make a connection within the site and with the outside.
+
 Phase 3: Adding catalyst to revive the whole site and make it as a start to activate the rest villages.
 
 ![2 Word Image Description](/img/weavingTheUrbanVerticalCarpet-yg/concept.png)
