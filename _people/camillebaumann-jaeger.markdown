@@ -3,7 +3,7 @@ layout: people
 title: "Camille Baumann-Jaeger"
 thumbnail: "CamilleBaumann-Jager.png"
 program: "MSCD"
-graduation: 2017-05-15
+graduation: 2018-05-15
 
 resume: "Baumann-JaegerCamille.pdf"
 website:
