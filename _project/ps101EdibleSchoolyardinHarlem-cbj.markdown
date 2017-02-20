@@ -1,13 +1,11 @@
 ---
 layout: post
-Title: "PS101: Edible Schoolyard in Harlem"
+title: "PS101: Edible Schoolyard in Harlem"
 tile-name: "PS101: Edible Schoolyard in Harlem"
 thumbnail: "ps101_1.png"
 author: "Camille Baumann-Jaeger"
-date: 05-01-2014
-
+date: 2014-05-01
 tags: architecture, education, sustainable development
-
 ---
 
 ![Hero Image](/img/ps101EdibleSchoolyardinHarlem-cbj/ps101_1.png)
