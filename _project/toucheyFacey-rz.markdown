@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Touchey Facey"
-tile-name: "a weird opportunity for face touching"
+tile-name: "A Weird Opportunity for Face Touching"
 thumbnail: "toucheyThumb-rz.png"
 author: "Robert Zacharias"
 date:   2017-02-11
