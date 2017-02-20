@@ -1,7 +1,7 @@
 ---
 layout: people
 title:  "Annie Ranttila"
-thumbnail: placeholder.png
+thumbnail: annieRantilla.png
 program: "PhDBPD"
 graduation: 2017-12-15
 
