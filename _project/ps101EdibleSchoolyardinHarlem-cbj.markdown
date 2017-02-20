@@ -5,6 +5,7 @@ tile-name: "PS101: Edible Schoolyard in Harlem"
 thumbnail: "ps101_1.png"
 author: "Camille Baumann-Jaeger"
 date: 2014-05-01
+
 tags: architecture, education, sustainable development
 ---
 
@@ -16,11 +17,8 @@ Inspired by David Gissen’s work “Subnature: Architecture’s Other Environme
 
 ![2 Campus Library Proposal](/img/ps101EdibleSchoolyardinHarlem-cbj/ps101_1.png)
 
-
-![2 Campus Library Final Proposal](/img/PS101:Edible Schoolyard in Harlem-cbj/ps101_2.png)
-
+![2 Campus Library Final Proposal](/img/ps101EdibleSchoolyardinHarlem-cbj/ps101_2.png)
 
 ![2 Campus Library Proposal](/img/ps101EdibleSchoolyardinHarlem-cbj/ps101_3.png)
-
 
 ![2 Campus Library Proposal](/img/ps101EdibleSchoolyardinHarlem-cbj/ps101_4.png)
