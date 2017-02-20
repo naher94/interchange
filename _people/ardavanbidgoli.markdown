@@ -2,7 +2,7 @@
 layout: people
 title:  "Ardavan Bidgoli"
 thumbnail: "ArdavanBidgoli.jpeg"
-program: "PhD-CD"
+program: "PhDCD"
 graduation: 2020-05-01
 
 resume: "ArdavanBidgoliResume.pdf"
