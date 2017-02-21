@@ -627,3 +627,27 @@ iframe{
 .MTID:hover{ background-color: #B46731}
 .MSCD:hover{ background-color: #C0B73F}
 .MUD:hover{ background-color: #AC2E46}
+
+
+
+/* ************************************** */
+/*Custom Styling for Rehan*/
+
+.contentButton {
+    width: 100%;
+    /*border-radius: 25px;
+    background-color: #6cbe45;*/
+    font-size: 30px;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+.colorBotButton{
+  background-color: #E82730;
+}
+
+.colorBotButton:hover{
+  background-color: #C62632;
+}
+/* ************************************** */
