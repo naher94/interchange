@@ -2,7 +2,7 @@
 layout: post
 title: "PS101: Edible Schoolyard in Harlem"
 tile-name: "PS101: Edible Schoolyard in Harlem"
-thumbnail: "ps101_1.png"
+thumbnail: "ps101.png"
 author: "Camille Baumann-Jaeger"
 date: 2014-05-01
 

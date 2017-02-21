@@ -8,11 +8,19 @@ layout: default
     <p class="post-meta">
       <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %Y" }}</time>
       {% assign author_split = page.author | split: "," %}
+      {% assign all_people = people.title | remove: " " | downcase %}
+      {{ all_people }}
+      
+      {% for people in site.people %}
+      
+      {% endfor %}
+      
+      
       •
       {% for author in author_split %}
             <span itemprop="author" itemscope itemtype="http://schema.org/Person">
               <span itemprop="name">
-                <!--Check If author exists in the system to a tag or not-->
+                <!--Check if author exists in the system-->
                 <a href="/people/{{ author | remove:" " | downcase}}">{{ author }}</a>
                 <!--Else just the name-->
               </span>

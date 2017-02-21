@@ -2,7 +2,7 @@
 layout: post
 title: "Larger Scale of the Archive"
 tile-name: "Larger Scale of the Archive"
-thumbnail: "camille_library.png"
+thumbnail: "camille-library.png"
 author: "Camille Baumann-Jaeger"
 date: 2014-05-01
 
