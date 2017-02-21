@@ -3,7 +3,7 @@ layout: post
 title:  "Resilient Porosity"
 tile-name: "Rethinking Neighborhood Clusters"
 thumbnail: "resilientPorosity-yg.png"
-author: "Yidan Gong"
+author: "Yidan Gong, Ankita Patel, Tamara Cartwright"
 date:   2016-12-12
 
 tags: Porosity, Community participation, East Liberty
