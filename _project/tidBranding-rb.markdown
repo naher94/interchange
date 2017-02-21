@@ -29,7 +29,7 @@ This past year the Masters of Tangible Interaction Design (MTID) program came ba
   <div class="image-container small-6 medium-3 column" style="padding:0px; margin:0px;"><img src="/img/tid/animate3.gif" alt="Animation Inspiration"/></div>
 </div>
 <div class="image-container" style="margin-top:50px;"><img src="/img/tid/logoIterations.svg" alt="Logo Iterations"/></div>
-
+<br><br>
 Several logo iterations looking at shape, scale, placement, weight and intensity of the graphic.
 
 <div class="image-container" style="margin-top:50px;"><img src="../img/tid/posterIterations1.png" alt="Poster Iterations"/></div>
