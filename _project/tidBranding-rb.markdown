@@ -21,7 +21,7 @@ This past year the Masters of Tangible Interaction Design (MTID) program came ba
 <div class="image-container"><img src="/img/tid/sketches.png" alt="Branding Sketches"/></div>
 <div class="image-container"><img src="/img/tid/sketches2.png" alt="Branding Sketches"/></div>
 <div class="image-container"><img src="/img/tid/brandInspiration.png" alt="Branding Inspiration"/></div>
-
+<br><br>
 <div class="row" style="padding:0px; margin:0px;">
   <div class="image-container small-6 medium-3 column" style="padding:0px; margin:0px;"><img src="/img/tid/animate1.gif" alt="Animation Inspiration"/></div>
   <div class="image-container small-6 medium-3 column" style="padding:0px; margin:0px;"><img src="/img/tid/animate2.gif" alt="Animation Inspiration"/></div>
