@@ -1,7 +1,7 @@
 ---
 layout: people
 title:  "Shivam Mathur"
-thumbnail: "placeholder.png"
+thumbnail: "shivamMathur.png"
 program: "MSAECM"
 graduation: 2017-02-11
 resume: "shivammathur.pdf"
