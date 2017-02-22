@@ -6,7 +6,7 @@ program: "MSCD"
 graduation: 2018-05-15
 
 resume: "Baumann-JaegerCamille.pdf"
-website:
+website: "camillebaumannjaeger.com"
 goal: To obtain a professional experience that deals with product design.
 ---
 
