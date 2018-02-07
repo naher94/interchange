@@ -548,7 +548,7 @@ iframe{
     line-height: 130px;
     font-size: 28px;
   }
-  
+
   .program-subtext {
     display: none;
   }
@@ -590,8 +590,17 @@ iframe{
     position: relative;
     display: block;
 }
+.pro-pic-container .BA:hover{
+  background-color: #8ACDA5;
+}
+.pro-pic-container .BArch:hover{
+  background-color: #346F88;
+}
 .pro-pic-container .MAAD:hover{
   background-color: #6CBD45;
+}
+.pro-pic-container .MArch:hover{
+  background-color: #F8BC42;
 }
 .pro-pic-container .MSAECM:hover{
   background-color: #2EC1DD;
@@ -612,7 +621,10 @@ iframe{
   background-color: #EC1950;
 }
 
+.BA{ background-color: #8ACDA5}
+.BArch{ background-color: #346F88}
 .MAAD{ background-color: #6CBD45}
+.MArch{ background-color: #F8BC42}
 .MSAECM{ background-color: #2EC1DD}
 .MSBPD{ background-color: #6952A1}
 .MSSD{ background-color: #E01EAE}
@@ -620,7 +632,10 @@ iframe{
 .MSCD{ background-color: #F6EB0F}
 .MUD{ background-color: #EC1950}
 
+.BA:hover{ background-color: #72AB8B}
+.BArch:hover{ background-color: #275C71}
 .MAAD:hover{ background-color: #679448}
+.MArch:hover{ background-color: #CB9B36}
 .MSAECM:hover{ background-color: #4B96AB}
 .MSBPD:hover{ background-color: #54477D}
 .MSSD:hover{ background-color: #A43087}
