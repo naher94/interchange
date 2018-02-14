@@ -3,7 +3,7 @@ layout: people
 title:  "Rehan Butt"
 thumbnail: "rehanButt.png"
 program: "MTID"
-graduation: 2017-12-15
+graduation: 2018-5-15
 
 resume: "rehanButt.pdf"
 website: "rehanbutt.com"
