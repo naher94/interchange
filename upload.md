@@ -4,143 +4,34 @@ title: Upload
 ---
 # Introduction
 
-Hello SoA graduate student. Welcome to the Interchange upload page. This page will give you all you need to know about submitting your work.
+Welcome to the Interchange upload page! To submit a profile and work sample to showcase on the site, fill out the form linked below.
 
-Each student can submit upto 4 projects. There will be a curation process for all submitted work. If any project submission a profile will be required. Every student may have a profile without the requirment of any projects.
+Project submissions are optional, students may have a profile without submitting a work sample. There will be a curation process for all submitted work.
 
-Deadline for submission is **Feb 9th 11:59pm**
+Deadline for submission is **Feb 16th 11:59pm**
 
-# Getting Started
+<div class="buttonContainer formButton">
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLScuRmny4G9N3VvPJbxeV9r7l32wsbvU3oaOfLkxX-ULIrHdWA/viewform?usp=sf_link">
+    <div class="button">
+      Go to Form
+    </div>
+  </a>
+</div>
 
-Download the file structure template [here](/img/template.zip).
-Upload your .zip to the [dropbox](https://goo.gl/forms/Ia76PNelAHKoNRlx1).
-
-Included in the template are also 2 release forms that need to be signed for us to present your work.
-
-Deadline for the poster Submission is Sunday **Feb 19th at 11:59pm**. Poster dimensions must be 24in x 36in
-
-Upload your .pdf poster to this [poster dropbox](https://goo.gl/forms/BfeWI7ycZC48Fr3x1).
-
-You must be logged in with your `andrew` google account to upload
-
-# The Meat
-
-## Profile
-
-For the companies to learn a little about you.
-
-### Requirements
-
-* Headshot
-* Biography (100 word limit)
-* Program Affiliation (ie. MTID, MSCD)
-* Graduation Month & Year
-
-### Optionals
-
-* Resume (PDF)
-* Goal / One Liner "what kind of position are you looking for?"
-* Personal Portfolio Link
-
-### Other Stuff
-
-This is what the profile file looks like (andrewcarnegie.markdown)
-Make sure to update all fields and the main section. For the optional fields if you would like to opt out please delete that line. Make sure to conform to the format below: program as an abbreviation `MAAD`,`MSAECM`,`MSBPD`,`MSSD`,`MTID`,`MSCD` and `MUD`, graduation as `YYYY-MM-DD`, no worries if you don't know the exact day, leave it at `15` if unknown and make sure to match casing `Andrew Carnegie` **not** `andrew carnegie`.
-
-```
----
-layout: people
-title:  "Andrew Carnegie"
-thumbnail: "andrewCarnegie.png"
-program: "MTID"
-graduation: 2017-12-15
-
-resume: "andrewCarnegie.pdf"
-website: "andrewcarnegie.com"
-goal: To obtain a full-time position that will help me to awesome stuff and this and that.
----
-
-This is where your bio goes. Etiam lacinia, lectus quis sollicitudin ultrices, lacus tellus feugiat ante, pharetra congue mauris nunc id felis. Nullam porta nisi eu lorem finibus, sed rutrum sapien fringilla. Nullam elit ante, sagittis sed volutpat ut, hendrerit vitae urna. Curabitur tincidunt dolor odio. Maecenas quis enim dictum risus lobortis viverra eget at leo. Vivamus turpis erat, vehicula id elit et, luctus imperdiet diam. Donec vitae dui gravida, placerat sapien a, tempus lacus. Curabitur aliquam purus et eros accumsan, sed luctus dui gravida. Vestibulum vel eros felis. Proin eget dictum erat. Ut augue arcu, sodales eget.
-```
-
-## Projects
-
-For the companies to see what you do. Keep in mind that these should be easy to ready through.
-
-### Requirements
-
-* Title
-* Completion Month & Year
-* Hero Image
-* Short Description (100 word limit)
-* Tile Image
-* Body Content
-  * Text
-  * Video (Embed code from [Youtube](https://support.google.com/youtube/answer/171780?hl=en) or [Vimeo](https://help.vimeo.com/hc/en-us/articles/224969968-Embedding-videos-overview))
-  * Images (See File Requirements)
-  * Links (`[Click Text](http://link.com)`)
-  * Code (Github links or [MarkDown Styling](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code))
-
-### Other Stuff
-
-This is what a project file looks like. Named `projectname-intials.markdown` just like the project folder. Make sure to conform to the formatting below including casing `Andrew Carnegie` **not** `andrew carnegie`. Again data is `YYYY-MM-DD`. `tile-name` is to give a peek at the project before clicking it, generally better to make this slightly generic `Photoshop Plugin` over `Pixel Scaling Function`. Tags are a good way to help people find your project. 
-
-```
----
-layout: post
-title:  "Project Name"
-tile-name: "Photoshop Plugin"
-thumbnail: "coLab-rb.png"
-author: "Andrew Carnegie"
-date:   2016-03-01
-
-tags: digital branding
----
-
-![Hero Image](/img/projectname-ac/hero.png)
-
-Your short description goes here. 100 word max.
-
-this is what an image looks like
-![2 Word Image Description](/img/projectname-ac/thisImage.png)
-
-this is what a video embed looks. please update width to be `100%` and remove `height="600"` otherwise it will break on mobile devices.
-
-<iframe width="100%" height="600" src="https://www.youtube.com/embed/IdneKLhsWOQ" frameborder="0" allowfullscreen></iframe>
-
-and this is how you include a link into stuff [link](http://cmu.edu). want to see where the link goes?
-
-```
+For any questions, or to update an existing profile, email cneri@andrew.cmu.edu.
 
 ## File Requirements
 
 | Item           | File Format          | Dimensions               | File Size Maximum | Naming Convension |
 | -------------- | -------------------- | ------------------------ | ----------------- | ----------------- |
 | Headshot       | PNG                  | 470px **x** 470px        | 400 KB | firstLast.png ([Lower Camel Case](http://wiki.c2.com/?LowerCamelCase))|
-| Tile Image     | PNG                  | 500px **x** 375px        | 400 KB | projectName-ab.png (lowerCamelCase-initials.png) |
-| Hero Image     | PNG                  | 1400px **x** 800px       | 1 MB   | hero.png |
-| All Other Image| PNG or GIF (animated)| <=1400px **x** <=1400px  | 1 MB   | lowerCamelCase.png or lowerCamelCase.gif |
+| Project Thumbnail     | PNG                  | 500px **x** 375px        | 400 KB | projectName-ab.png (lowerCamelCase-initials.png) |
 | Resume         | PDF                  | 8.5 **x** 11 recommended | 1 MB   | firstLast.pdf |
 
 
-## File Structure
-
-```
-andrewid.zip
-├── headshot.png
-├── resume.pdf
-├── profile.markdown
-├── project1
-│   ├── project1.markdown
-│   ├── tileImage.png
-│   ├── hero.png
-│   ├── thisImage.png
-│   └── thatImage.gif
-```
-
 # Extras
 
-If you need help reducing the file size check out an image optimzers [ImageOptim](https://imageoptim.com) for mac & [XnView](http://www.xnview.com/en/) for windows machines.
+If you need help reducing the file size check out an image optimizers [ImageOptim](https://imageoptim.com) for mac & [XnView](http://www.xnview.com/en/) for windows machines.
 
 if you want to render markdown in the browser check out [Dillinger](http://dillinger.io) & if you want to know the syntax check [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
