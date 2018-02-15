@@ -6,7 +6,7 @@ program: "BArch"
 graduation: 2018-05-19
 
 resume: "katelynSmith.pdf"
-website: https://www.katesmith.archi/
+website: katesmith.archi/
 goal: Full Time
 ---
 
