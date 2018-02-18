@@ -1,7 +1,7 @@
 ---
 layout: people
 title:  "Ardavan Bidgoli"
-thumbnail: "ArdavanBidgoli.jpeg"
+thumbnail: "ArdavanBidgoli.png"
 program: "PhDCD"
 graduation: 2020-05-01
 
