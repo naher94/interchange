@@ -2,7 +2,7 @@
 layout: people
 title:  "Samson Liu"
 thumbnail: "yushanLiu.png"
-program: "B.Arch"
+program: "BArch"
 graduation: 2019-05-19
 
 resume: "samsonLiu.pdf"

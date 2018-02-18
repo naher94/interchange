@@ -2,7 +2,7 @@
 layout: people
 title:  "Liale Nijem"
 thumbnail: "lialeNijem.png"
-program: "M.Arch"
+program: "MArch"
 graduation: 2019-5-15
 
 resume: "lialeNijem.pdf"
