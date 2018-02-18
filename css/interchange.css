@@ -624,6 +624,9 @@ iframe{
 .pro-pic-container .MUD:hover{
   background-color: #EC1950;
 }
+.pro-pic-container .PhDCD:hover{
+  background-color: #393939;
+}
 
 .BA{ background-color: #8ACDA5}
 .BArch{ background-color: #346F88}
@@ -635,6 +638,7 @@ iframe{
 .MTID{ background-color: #F37820}
 .MSCD{ background-color: #F6EB0F}
 .MUD{ background-color: #EC1950}
+.PhDCD{ background-color: #393939}
 
 .BA:hover{ background-color: #72AB8B}
 .BArch:hover{ background-color: #275C71}
@@ -646,6 +650,7 @@ iframe{
 .MTID:hover{ background-color: #B46731}
 .MSCD:hover{ background-color: #C0B73F}
 .MUD:hover{ background-color: #AC2E46}
+.PhDCD:hover{ background-color: #1f1f1f}
 
 
 
