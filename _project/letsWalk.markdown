@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Lets Walk!"
-tile-name: "Lets Walk!"
+title:  "Let's Walk! "
+tile-name: "Let's Walk! "
 thumbnail: "letsWalk.png"
 author: "Hamza Qureshi"
 date:   2016-12-4
