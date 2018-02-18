@@ -5,7 +5,7 @@ thumbnail: "roshniKrishnan.png"
 program: "MSSD"
 graduation: 2018-08-11
 resume: "roshniKrishnan.pdf"
-website: "https&#58//issuu.com/roshnikrishnan/docs/roshni_krishnan-portfolio"
+website: "https://issuu.com/roshnikrishnan/docs/roshni_krishnan-portfolio"
 goal: Full Time
 ---
 
