@@ -7,7 +7,7 @@ graduation: 2018-5-15
 
 resume: "ceciliaFerrando.pdf"
 website: "ceciliaferrando.wixsite.com/designportfolio"
-goal: Use machine learning and robotics to develop innovative design workflows 
+goal: Internship 
 ---
 
 I am a MSCD student and Fulbright scholar at Carnegie Mellon University.
