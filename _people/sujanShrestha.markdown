@@ -1,11 +1,11 @@
 ---
 layout: people
 title:  "Sujan Shrestha"
-thumbnail: "sujanShrestha.png"
+thumbnail: "sujanDasShrestha.png"
 program: "MUD"
 graduation: 2019-5-15
 
-resume: "sujanShrestha.pdf"
+resume: "sujanDasShrestha.pdf"
 website: "https://issuu.com/sujandasshrestha/docs/portfolio"
 goal: Internship
 ---
