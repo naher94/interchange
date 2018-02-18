@@ -6,7 +6,7 @@ program: "MUD"
 graduation: 2019-5-15
 
 resume: "sujanDasShrestha.pdf"
-website: "https://issuu.com/sujandasshrestha/docs/portfolio"
+website: "issuu.com/sujandasshrestha/docs/portfolio"
 goal: Internship
 ---
 

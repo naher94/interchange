@@ -6,7 +6,7 @@ program: "MUD"
 graduation: 2019-5-15
 
 resume: "saiPrateekNarayanRamachandran.pdf"
-website: "https://issuu.com/snaray03/docs/20171220_portfolio"
+website: "issuu.com/snaray03/docs/20171220_portfolio"
 goal: Internship 
 ---
 

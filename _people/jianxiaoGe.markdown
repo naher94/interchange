@@ -6,7 +6,7 @@ program: "MUD"
 graduation: 2019-5-15
 
 resume: "jianxiaoGe.pdf"
-website: "https://issuu.com/19383"
+website: "issuu.com/19383"
 goal: Internship 
 ---
 

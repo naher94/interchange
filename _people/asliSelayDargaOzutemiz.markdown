@@ -6,7 +6,7 @@ program: "MSAECM"
 graduation: 2018-12-15
 
 resume: "asliSelayDargaOzutemiz.pdf"
-website: "https://www.linkedin.com/in/aslisdargaozutemiz/"
+website: "www.linkedin.com/in/aslisdargaozutemiz/"
 goal: Internship 
 ---
 

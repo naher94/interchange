@@ -6,7 +6,7 @@ program: "MAAD"
 graduation: 2019-5-15
 
 resume: "stephanieSmid.pdf"
-website: "https://issuu.com/stephaniesmid/docs/stephanie_smid_design_portfolio_sin"
+website: "issuu.com/stephaniesmid/docs/stephanie_smid_design_portfolio_sin"
 goal: Paid summer internship 
 ---
 
