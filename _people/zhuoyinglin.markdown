@@ -6,7 +6,7 @@ program: "BArch"
 graduation: 2020-05-19
 
 resume: "zhuoyingLin.pdf"
-website: https://issuu.com/zhuoyinglin/docs/20180217_portfolio3
+website: issuu.com/zhuoyinglin/docs/20180217_portfolio3
 goal: Internship
 ---
 

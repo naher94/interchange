@@ -5,7 +5,7 @@ thumbnail: "ritchieJu.png"
 program: "BArch"
 graduation: 2019-05-19
 
-resume: "ritchieYu.pdf"
+resume: "ritchieJu.pdf"
 website: issuu.com/ritchieju/docs/portfolio2018_print
 goal: Internship
 ---

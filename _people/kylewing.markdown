@@ -6,7 +6,7 @@ program: "BArch"
 graduation: 2018-05-19
 
 resume: "kyleWing.pdf"
-website: http://kylejwing.com
+website: kylejwing.com
 goal: Full Time
 ---
 
