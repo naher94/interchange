@@ -12,4 +12,4 @@ goal: Full Time
 
 Hi! I'm a fifth year student finishing up my Bachelor of Architecture with an additional major in Human-Computer Interaction. My goal as a designer is to craft environments that foster engaging and meaningful interactions.  
 
-Last summer I worked with the people over at [Sosolimited](https://www.sosolimited.com), where I was responsible for helping with various projects at different stages of the design process. I'm currently looking for full time opportunities where I could continue to collaborate on projects at the boundary of disciplines.
+Last summer I worked with the people over at <a href="https://www.sosolimited.com">Sosolimited</a>, where I was responsible for helping with various projects at different stages of the design process. I'm currently looking for full time opportunities where I could continue to collaborate on projects at the boundary of disciplines.
