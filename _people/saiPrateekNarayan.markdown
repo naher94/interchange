@@ -6,12 +6,14 @@ program: "MUD"
 graduation: 2019-5-15
 
 resume: "saiPrateekNarayanRamachandran.pdf"
-website: "https://"
-goal: Full Time 
+website: "https://issuu.com/snaray03/docs/20171220_portfolio"
+goal: Internship 
 ---
 
-Mass production of built structure is easy. Creating a complex and vivid experiences while tackling history, politics of cities, infrastructure, social issues, and functional requirement is interesting, intellectual and intriguing, it is design. Designing built structure to shape and redefine culture, influence city's structure and thinking of new potentials is architecture.
+Sai Prateek Narayan is an architect and urban designer. He is currently in his first year graduate degree of Urban Design at Carnegie Mellon University in Pittsburgh, PA. 
 
-As John Frazer stated” the role of architects is not about designing a building or a city as to catalyze them to act as they may evolve”.
+He completed his Bachelors in Architecture from Syracuse University in Syracuse, NY in 2015, and with an interest in studying informal settlements in urban contexts, moved to Mumbai.
 
-What defines me isn’t only my skills and experience, but questioning and thinking about new perspectives, provoking new models for design discourse involving technological advancement and media. I believe it is critical to rethink architecture in terms of material, design process, structure, and spaces. Designing architecture that can be defined beyond the convention and its static configuration is the present and the future.
+He worked for 2 years as an architect whereupon he worked on several residential and commercial projects, performing in design development, construction documents and client presentation stages.
+
+His work is focused on community centric design, and his research is focused on innovative housing strategies and policies that can be implemented in developing countries.
