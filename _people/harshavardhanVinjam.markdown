@@ -6,7 +6,7 @@ program: "MSSD"
 graduation: 2018-8-15
 
 resume: "harshavardhanVinjam.pdf"
-website: "https://issuu.com/harshavardhanvinjam/docs/harshavardhan"
+website: "issuu.com/harshavardhanvinjam/docs/harshavardhan"
 goal: Full Time 
 ---
 

@@ -6,7 +6,7 @@ program: "MSCD"
 graduation: 2018-5-15
 
 resume: "adieAlnobani.pdf"
-website: "https://issuu.com/adie_alnobani/docs/adiealnobani_portfolio_interchange"
+website: "issuu.com/adie_alnobani/docs/adiealnobani_portfolio_interchange"
 goal: Full Time 
 ---
 
