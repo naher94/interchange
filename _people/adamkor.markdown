@@ -6,7 +6,7 @@ program: "BA"
 graduation: 2018-05-19
 
 resume: "adamKor.pdf"
-website: https://issuu.com/adamshongjingkor/docs/adam_kor_portfolio
+website: issuu.com/adamshongjingkor/docs/adam_kor_portfolio
 goal: 6 to 12 month internship
 ---
 
