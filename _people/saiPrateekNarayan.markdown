@@ -1,11 +1,11 @@
 ---
 layout: people
 title:  "Sai Prateek Narayan"
-thumbnail: "saiPrateekNarayan.png"
+thumbnail: "saiPrateekNarayanRamachandran.png"
 program: "MUD"
 graduation: 2019-5-15
 
-resume: "saiPrateekNarayan.pdf"
+resume: "saiPrateekNarayanRamachandran.pdf"
 website: "https://"
 goal: Full Time 
 ---
