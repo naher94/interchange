@@ -4,10 +4,11 @@ title:  "Matter Matters: Freshwater Education Center"
 tile-name: "Matter Matters: Freshwater Education Center"
 thumbnail: "matterMattersFreshwaterEducationCenter.png"
 author: "Adam Kor"
-date:   n/a
+date: 2016-12-4
 link: "adamkor.com/mattermatters/"
 
-tags: n/a
+tags: Image
+
 ---
 
-n/a
+Text

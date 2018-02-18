@@ -603,7 +603,7 @@ iframe{
 .pro-pic-container .MAAD:hover{
   background-color: #6CBD45;
 }
-.pro-pic-container .M.Arch:hover{
+.pro-pic-container .MArch:hover{
   background-color: #F8BC42;
 }
 .pro-pic-container .MSAECM:hover{
@@ -628,7 +628,7 @@ iframe{
 .BA{ background-color: #8ACDA5}
 .BArch{ background-color: #346F88}
 .MAAD{ background-color: #6CBD45}
-.M.Arch{ background-color: #F8BC42}
+.MArch{ background-color: #F8BC42}
 .MSAECM{ background-color: #2EC1DD}
 .MSBPD{ background-color: #6952A1}
 .MSSD{ background-color: #E01EAE}
@@ -639,7 +639,7 @@ iframe{
 .BA:hover{ background-color: #72AB8B}
 .BArch:hover{ background-color: #275C71}
 .MAAD:hover{ background-color: #679448}
-.M.Arch:hover{ background-color: #CB9B36}
+.MArch:hover{ background-color: #CB9B36}
 .MSAECM:hover{ background-color: #4B96AB}
 .MSBPD:hover{ background-color: #54477D}
 .MSSD:hover{ background-color: #A43087}
