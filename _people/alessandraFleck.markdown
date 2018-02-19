@@ -1,0 +1,14 @@
+---
+layout: people
+title:  "Alessandra Fleck"
+thumbnail: "alessandraFleck.png"
+program: "B.Arch"
+graduation: 2020-05-15
+
+resume: "alessandraFleck.pdf"
+website: "alessandrafleck.com/afleck_portfolio.pdf"
+goal: Internship
+
+---
+
+I am currently a junior in the B.Arch program under the School of Architecture. I am also pursuing a secondary major in Human Computer Interaction Design under the School of Computer Science. Previous projects I have been involved in include a GRAY Awards Finalist adaptive seating center in Seattle and user-centered research for a health literacy application under the HCII department. I am looking for any design internship opportunity that will broaden my experience and knowledge in user-centered design, architectural design and any other medium of design that seeks to mediate the relationship between the natural and built environment. 
