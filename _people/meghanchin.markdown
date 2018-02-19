@@ -2,7 +2,7 @@
 layout: people
 title:  "Meghan Chin"
 thumbnail: "meghanChin.png"
-program: "BArch"
+program: "B.Arch"
 graduation: 2018-05-19
 
 resume: "meghanChin.pdf"

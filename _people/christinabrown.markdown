@@ -2,7 +2,7 @@
 layout: people
 title:  "Christina Brown"
 thumbnail: "christinaBrown.png"
-program: "BArch"
+program: "B.Arch"
 graduation: 2020-05-19
 
 resume: "christinaBrown.pdf"

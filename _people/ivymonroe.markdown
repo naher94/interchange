@@ -2,7 +2,7 @@
 layout: people
 title:  "Ivy Faye Monroe"
 thumbnail: "ivyMonroe.png"
-program: "BArch"
+program: "B.Arch"
 graduation: 2018-05-19
 
 resume: "ivyMonroe.pdf"

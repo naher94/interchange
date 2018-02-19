@@ -2,7 +2,7 @@
 layout: people
 title:  "Zhi Tao Chen"
 thumbnail: "zhiTaoChen.png"
-program: "BArch"
+program: "B.Arch"
 graduation: 2020-05-19
 
 resume: "zhiTaoChen.pdf"

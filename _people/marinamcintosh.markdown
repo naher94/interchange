@@ -2,7 +2,7 @@
 layout: people
 title:  "Marina McIntosh"
 thumbnail: "marinaMcIntosh.png"
-program: "BArch"
+program: "B.Arch"
 graduation: 2018-05-19
 
 resume: "marinaMcIntosh.pdf"

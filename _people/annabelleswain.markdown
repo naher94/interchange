@@ -2,7 +2,7 @@
 layout: people
 title:  "Annabelle Swain"
 thumbnail: "annabelleSwain.png"
-program: "BArch"
+program: "B.Arch"
 graduation: 2018-05-19
 
 resume: "annabelleSwain.pdf"

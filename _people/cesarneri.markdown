@@ -2,7 +2,7 @@
 layout: people
 title:  "César Neri"
 thumbnail: "cesarNeri.png"
-program: "BArch"
+program: "B.Arch"
 graduation: 2018-05-19
 
 resume: "cesarNeri.pdf"

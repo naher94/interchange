@@ -2,7 +2,7 @@
 layout: people
 title:  "Yan Gao"
 thumbnail: "yangGao.png"
-program: "BArch"
+program: "B.Arch"
 graduation: 2019-05-19
 
 resume: "yangGao.pdf"

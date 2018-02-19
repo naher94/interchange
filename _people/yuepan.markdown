@@ -2,7 +2,7 @@
 layout: people
 title:  "Pam Yue Pan"
 thumbnail: "yuePan.png"
-program: "BArch"
+program: "B.Arch"
 graduation: 2018-05-19
 
 resume: "yuePan.pdf"

@@ -2,7 +2,7 @@
 layout: people
 title:  "Gunn Chaiyapatranun"
 thumbnail: "gunnChaiyapatranun.png"
-program: "BArch"
+program: "B.Arch"
 graduation: 2019-05-19
 
 resume: "gunnChaiyapatranun.pdf"

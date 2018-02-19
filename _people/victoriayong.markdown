@@ -2,7 +2,7 @@
 layout: people
 title:  "Victoria Yong"
 thumbnail: "victoriaYong.png"
-program: "BArch"
+program: "B.Arch"
 graduation: 2019-05-19
 
 resume: "victoriaYong.pdf"

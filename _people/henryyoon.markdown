@@ -2,7 +2,7 @@
 layout: people
 title:  "Henry Yoon"
 thumbnail: "henryYoon.png"
-program: "BArch"
+program: "B.Arch"
 graduation: 2019-05-19
 
 resume: "henryYoon.pdf"

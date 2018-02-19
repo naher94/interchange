@@ -2,7 +2,7 @@
 layout: people
 title:  "Kyle Wing"
 thumbnail: "kyleWing.png"
-program: "BArch"
+program: "B.Arch"
 graduation: 2018-05-19
 
 resume: "kyleWing.pdf"

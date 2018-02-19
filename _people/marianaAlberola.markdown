@@ -2,7 +2,7 @@
 layout: people
 title:  "Mariana Alberola-Rezza"
 thumbnail: "marianaAlberola.png"
-program: "MArch"
+program: "M.Arch"
 graduation: 2019-5-15
 
 resume: "marianaAlberola.pdf"

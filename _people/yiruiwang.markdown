@@ -2,7 +2,7 @@
 layout: people
 title:  "Yirui Veronica Wang"
 thumbnail: "yiruiWang.png"
-program: "BArch"
+program: "B.Arch"
 graduation: 2019-05-19
 
 resume: "yiruiWang.pdf"

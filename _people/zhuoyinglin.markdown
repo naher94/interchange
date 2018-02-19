@@ -2,7 +2,7 @@
 layout: people
 title:  "Zhuoying Lin"
 thumbnail: "zhuoyingLin.png"
-program: "BArch"
+program: "B.Arch"
 graduation: 2020-05-19
 
 resume: "zhuoyingLin.pdf"

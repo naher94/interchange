@@ -2,7 +2,7 @@
 layout: people
 title:  "Selena Zhen"
 thumbnail: "selenaZhen.png"
-program: "BArch"
+program: "B.Arch"
 graduation: 2020-05-19
 
 resume: "selenaZhen.pdf"

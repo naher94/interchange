@@ -2,7 +2,7 @@
 layout: people
 title:  "Benita Nartey"
 thumbnail: "benitaNartey.png"
-program: "BArch"
+program: "B.Arch"
 graduation: 2020-05-19
 
 resume: "benitaNartey.pdf"

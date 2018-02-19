@@ -2,7 +2,7 @@
 layout: people
 title:  "Shan Wang"
 thumbnail: "shanWang.png"
-program: "BArch"
+program: "B.Arch"
 graduation: 2020-05-19
 
 resume: "shanWang.pdf"

@@ -2,7 +2,7 @@
 layout: people
 title:  "Christine (HaeWann) Kim"
 thumbnail: "haeWannKim.png"
-program: "BArch"
+program: "B.Arch"
 graduation: 2020-05-19
 
 resume: "haeWannKim.pdf"

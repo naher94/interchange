@@ -2,7 +2,7 @@
 layout: people
 title:  "Francis Yang"
 thumbnail: "fanYang.png"
-program: "BArch"
+program: "B.Arch"
 graduation: 2018-05-19
 
 resume: "fanYang.pdf"

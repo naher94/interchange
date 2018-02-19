@@ -2,7 +2,7 @@
 layout: people
 title:  "Nickie Cheung"
 thumbnail: "nickieCheung.png"
-program: "BArch"
+program: "B.Arch"
 graduation: 2018-05-19
 
 resume: "nickieCheung.pdf"

@@ -2,7 +2,7 @@
 layout: people
 title:  "Katelyn Smith"
 thumbnail: "katelynSmith.png"
-program: "BArch"
+program: "B.Arch"
 graduation: 2018-05-19
 
 resume: "katelynSmith.pdf"

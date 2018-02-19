@@ -2,7 +2,7 @@
 layout: people
 title:  "KelliLaurel Mijares"
 thumbnail: "kelliMijares.png"
-program: "BArch"
+program: "B.Arch"
 graduation: 2018-05-19
 
 resume: "kelliMijares.pdf"

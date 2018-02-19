@@ -2,7 +2,7 @@
 layout: people
 title:  "Monica Toren"
 thumbnail: "monicaToren.png"
-program: "BArch"
+program: "B.Arch"
 graduation: 2020-05-19
 
 resume: "monicaToren.pdf"
