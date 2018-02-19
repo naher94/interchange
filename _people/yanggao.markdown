@@ -1,6 +1,6 @@
 ---
 layout: people
-title:  "Yan Gao"
+title:  "Yang Gao"
 thumbnail: "yangGao.png"
 program: "B.Arch"
 graduation: 2019-05-19
