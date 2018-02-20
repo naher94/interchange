@@ -3,7 +3,7 @@ layout: people
 title:  "Catherine Zanardi"
 thumbnail: "catherineZanardi.png"
 program: "B.Arch"
-graduation: 2020-05-19
+graduation: 2018-05-19
 
 resume: "catherineZanardi.pdf"
 website: catherinezanardi.com
