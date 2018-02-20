@@ -2,7 +2,7 @@
 layout: people
 title:  "Gautam Thakkar"
 thumbnail: "gautamThakkar.png"
-program: "B.Arch"
+program: "M.Arch"
 graduation: 2019-05-15
 
 resume: "gautamThakkar.pdf"
