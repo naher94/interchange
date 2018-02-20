@@ -5,6 +5,7 @@ tile-name: "TiD Branding"
 thumbnail: "tid.png"
 date: 2017-01-25
 author: "Rehan Butt"
+link: "rehanbutt.com/tid"
 
 tags: Branding
 ---
