@@ -3,10 +3,10 @@ layout: people
 title:  "Shivam Mathur"
 thumbnail: "shivamMathur.png"
 program: "MSAECM"
-graduation: 2017-02-11
-resume: "shivammathur.pdf"
-website: 
-goal: To obtain a summer internship position that will advance my knowledge and help me explore the practical side of the construction industry.
+graduation: 2017-12-11
+resume: "shivamMathur.pdf"
+website:
+goal: Full Time
 ---
 
-Shivam Mathur is a Masters student in Carnegie Mellon University, currently in his first year of Architecture-Engineering-Construction Management Program. He worked as a Project Engineer in India for two years where he coordinated and audited more than 10 projects simultaneously. His thirst for knowledge brought him here and now he is one step closer for a career in project planning and developm
+I have recently graduated from Carnegie Mellon University with a Master of Science in Architecture-Engineering-Construction Management. I have gained hands-on experience in project coordination and supervision after working with a Real Estate Developer for two years. I would be delighted to start my professional career with an organization I can learn from, and grow with.
