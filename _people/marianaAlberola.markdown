@@ -6,7 +6,7 @@ program: "M.Arch"
 graduation: 2019-5-15
 
 resume: "marianaAlberola.pdf"
-website:
+website: issuu.com/marianaalberola/docs/malberola_portfolio_2018
 goal: "My goal is to obtain a summer internship for 2018 in an architectural firm, preferably one engaged with the construction process."
 ---
 
