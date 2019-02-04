@@ -11,14 +11,14 @@ Project submissions are optional, students may have a profile without submitting
 Deadline for submission is **Feb 16th 11:59pm**
 
 <div class="buttonContainer formButton">
-  <a href="https://docs.google.com/forms/d/e/1FAIpQLScuRmny4G9N3VvPJbxeV9r7l32wsbvU3oaOfLkxX-ULIrHdWA/viewform?usp=sf_link">
+  <a href="https://goo.gl/forms/fNUfIw18TZtFKTqy2">
     <div class="button">
       Go to Form
     </div>
   </a>
 </div>
 
-For any questions, or to update an existing profile, email cneri@andrew.cmu.edu.
+For any questions, or to update an existing profile, email lhermann@andrew.cmu.edu.
 
 ## File Requirements
 
