@@ -6,8 +6,8 @@ program: "B.Arch"
 graduation: 2019-05-19
 
 resume: "henryYoon.pdf"
-website: issuu.com/yoonh1597/docs/2018_compressedportfolio__1_
-goal: Internship
+website: unity-coin.org/wp-content/uploads/2019/02/2017-Portfolio.pdf
+goal: Full Time
 ---
 
-My name is Henry Yoon, and I currently am a 4th year architecture student at Carnegie Mellon University. I look to pursue sustainable and affordable architecture, and create a connection between these typologies with the existing public policies of the world.
+My name is Henry Yoon, and I'm currently thesis for my 5th year at Carnegie Mellon University

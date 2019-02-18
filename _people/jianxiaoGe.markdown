@@ -7,9 +7,7 @@ graduation: 2019-5-15
 
 resume: "jianxiaoGe.pdf"
 website: "issuu.com/19383"
-goal: Internship 
+goal: Full Time
 ---
 
-I’m a first-year Master of Urban Design student who is applying for a summer internship. As a Hangzhou native, I witnessed the rapid development of China 's urbanization over the past decade. Study experience in Taiwan enables me to look from a unique perspective, which made me deeply realize that the China’s development offers both challenges and opportunities.
-
-I'm interested in the Smart City. Relying on the support of native Internet companies such as Alibaba, Hangzhou is becoming the pioneer of China's Smart City. I would like to explore more possibilities of Urban Design with new technologies in the future.
+Hi! I'm Jianxiao Ge and you can call me David. I'm currently a second-year Master of Urban Design student at Carnegie Mellon University, applying for a full-time job starting from 2019 summer. I come from Hangzhou, China and got the Bachelor degree in Landscape Architecture from Taiwan Tunghai University in 2017. I had previous internship experiences as the landscape architect, urban designer, and research assistant in Hangzhou, Taipei, and Pittsburgh. I feel particularly passionate about building a healthier framework for the community and reactivating regional development by design. Please feel free to contact me via email or phone anytime!

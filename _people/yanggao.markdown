@@ -6,8 +6,8 @@ program: "B.Arch"
 graduation: 2019-05-19
 
 resume: "yangGao.pdf"
-website: issuu.com/yanggao413/docs/yanggao_portfolio
-goal: Internship
+website: issuu.com/yanggao413/docs/portfolio_letter-compressed
+goal: Full Time
 ---
 
-I am a current fourth-year Bachelor of Architecture student aiming for professional licensure after graduation. My approach toward architectural design involves the contextual pattern that the building inhabits. My works revolve around the digital analysis of not only the adjacent neighbourhoods but also the greater surroundings that the architectural piece influences. I believe architecture is a struggle between its functional operations and the intended resolution that it brings to its contextual periphery. I hope to attain guidance in the process of this synthesis.
+I am a passionate, self-motivating individual who is seeking opportunities for the junior architect position. I hope to utilize this opportunity to establish a strong foundation in the development of my architecture career. I work well in groups and contribute innovative ways of thinking. When need to, I take on a leadership role in the team and take on responsibilities.
