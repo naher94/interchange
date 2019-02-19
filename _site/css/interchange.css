@@ -124,6 +124,11 @@ img {
     -webkit-user-drag: none;
 }
 
+.proj-photo {
+  width: 100%;
+  margin: 10px 0;
+}
+
 .nav{
   margin-top: 30px;
   margin-left: 10px;

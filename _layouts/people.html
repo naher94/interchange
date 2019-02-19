@@ -47,20 +47,36 @@ layout: default
   </div>
 
   <div class="row" style="margin-top:50px;">
-  {% for project in site.project %}
-    {% assign post_author = project.author | downcase %}
-    {% assign page_author = page.title | downcase %}
-      {% if post_author == page_author %}
-          <div class="small-6 medium-4 columns thumbnail-tile">
-          <a class="post-link" href="http://{{ project.link }}">
+      {% if page.project %}
+          <h3>Representative Project</h3>
+          <p>{{page.project}}</p>
+          <p>{{page.projtext}}</p>
+          <div class="photo-container">
+            {% if page.img1 %}
+                <img class="proj-photo" src="../img/projects/{{ page.projlink }}/{{ page.img1 }}">
+            {% endif %}
+            {% if page.img2 %}
+                <img class="proj-photo" src="../img/projects/{{ page.projlink }}/{{ page.img2 }}">
+            {% endif %}
+            {% if page.img3 %}
+                <img class="proj-photo" src="../img/projects/{{ page.projlink }}/{{ page.img3 }}">
+            {% endif %}
+            {% if page.img4 %}
+                <img class="proj-photo" src="../img/projects/{{ page.projlink }}/{{ page.img4 }}">
+            {% endif %}
+            {% if page.img5 %}
+                <img class="proj-photo" src="../img/projects/{{ page.projlink }}/{{ page.img5 }}">
+            {% endif %}
+          </div>     
+          <div class="small-6 medium-4 columns">
+          <!-- <a class="post-link" href="http://{{ project.link }}">
               <div class="thumbnail-container">
                   <img class="thumbnail-image" src="../img/thumbnails/{{ project.thumbnail }}">
                   <span class="thumbnail-text">{{ project.tile-name }}</span>
               </div>
-          </a>
+          </a> -->
       </div>
       {% endif %}
-  {% endfor %}
   </div>
 
 </div>
