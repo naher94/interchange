@@ -10,13 +10,11 @@ layout: default
       {% assign author_split = page.author | split: "," %}
       {% assign all_people = people.title | remove: " " | downcase %}
       {{ all_people }}
-      
+
       {% for people in site.people %}
-      
+
       {% endfor %}
       
-      
-      •
       {% for author in author_split %}
             <span itemprop="author" itemscope itemtype="http://schema.org/Person">
               <span itemprop="name">
