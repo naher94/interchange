@@ -2,7 +2,7 @@
 layout: people
 title:  "Vanshika Gandotra"
 thumbnail: "vanshikaGandotra.png"
-program: "MSSD"
+program: "B.Arch"
 graduation: 2021-05-19
 
 resume: "vanshikaGandotra.pdf"
