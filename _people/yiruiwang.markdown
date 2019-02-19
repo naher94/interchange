@@ -7,7 +7,7 @@ graduation: 2019-05-19
 
 resume: "yiruiWang.pdf"
 website: issuu.com/veronica_w
-goal: Internship
+goal: Full Time
 
 project: "Eco-Living"
 projtext: "The ECO-LIVING PROJECT investigates how urban infrastructure and ecology can play a role in affordable housing in the Strip District area of Pittsburgh. An emphasis is put on incorporating ecological strategies with environmental and demographic analysis. The project is divided into four phases: site analysis, precedence study, eco-machine analysis, and housing proposal."
