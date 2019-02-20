@@ -2,7 +2,7 @@
 layout: people
 title:  "Rashmi Baliga"
 thumbnail: "rashmiBaliga.png"
-program: "MUD"
+program: "MS-BPD"
 graduation: 2020-5-15
 
 resume: "rashmiBaliga.pdf"
