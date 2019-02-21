@@ -2,7 +2,7 @@
 layout: people
 title:  "Zhou Yu"
 thumbnail: "zhouYu.png"
-program: "MSBPD"
+program: "MS-BPD"
 graduation: 2020-5-15
 
 resume: "zhouYu.pdf"
