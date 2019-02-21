@@ -2,7 +2,7 @@
 layout: people
 title:  "Zhizhang Hu"
 thumbnail: "zhizhangHu.png"
-program: "MSBPD"
+program: "MS-BPD"
 graduation: 2020-05-19
 
 resume: "zhizhangHu.pdf"
