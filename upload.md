@@ -11,7 +11,7 @@ Project submissions are optional, students may have a profile without submitting
 Deadline for submission is **Feb 16th 11:59pm**
 
 <div class="buttonContainer formButton">
-  <a target="_blank" href="https://goo.gl/forms/fNUfIw18TZtFKTqy2">
+  <a target="_blank" href="https://forms.gle/YjcHZzKw1La6Kicw7">
     <div class="button">
       Go to Form
     </div>
