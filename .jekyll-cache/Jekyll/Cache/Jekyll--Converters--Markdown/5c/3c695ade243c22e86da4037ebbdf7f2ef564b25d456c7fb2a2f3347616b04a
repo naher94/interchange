@@ -1,0 +1,64 @@
+I"9
+<h1 id="introduction">Introduction</h1>
+
+<p>Welcome to the Interchange upload page! To submit a profile and work sample to showcase on the site, fill out the form linked below.</p>
+
+<p>Project submissions are optional, students may have a profile without submitting a work sample. There will be a curation process for all submitted work.</p>
+
+<p>Deadline for submission is <strong>Feb 16th 11:59pm</strong></p>
+
+<div class="buttonContainer formButton">
+  <a target="_blank" href="https://forms.gle/YjcHZzKw1La6Kicw7">
+    <div class="button">
+      Go to Form
+    </div>
+  </a>
+</div>
+
+<p>For any questions, or to update an existing profile, email lhermann@andrew.cmu.edu.</p>
+
+<h2 id="file-requirements">File Requirements</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>File Format</th>
+      <th>Dimensions</th>
+      <th>File Size Maximum</th>
+      <th>Naming Convension</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Headshot</td>
+      <td>PNG</td>
+      <td>470px <strong>x</strong> 470px</td>
+      <td>400 KB</td>
+      <td>firstLast.png (<a href="http://wiki.c2.com/?LowerCamelCase">Lower Camel Case</a>)</td>
+    </tr>
+    <tr>
+      <td>Project Thumbnail</td>
+      <td>PNG</td>
+      <td>500px <strong>x</strong> 375px</td>
+      <td>400 KB</td>
+      <td>projectName-ab.png (lowerCamelCase-initials.png)</td>
+    </tr>
+    <tr>
+      <td>Resume</td>
+      <td>PDF</td>
+      <td>8.5 <strong>x</strong> 11 recommended</td>
+      <td>1 MB</td>
+      <td>firstLast.pdf</td>
+    </tr>
+  </tbody>
+</table>
+
+<h1 id="extras">Extras</h1>
+
+<p>If you need help reducing the file size check out an image optimizers <a href="https://imageoptim.com">ImageOptim</a> for mac &amp; <a href="http://www.xnview.com/en/">XnView</a> for windows machines.</p>
+
+<p>if you want to render markdown in the browser check out <a href="http://dillinger.io">Dillinger</a> &amp; if you want to know the syntax check <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">here</a>.</p>
+
+<p>If you feel like making other changes to <strong>your</strong> pages while maintaining the style of the site, feel free to submit a pull request over at the GitHub <a href="https://github.com/naher94/interchange">repo</a>. The site is build using <a href="https://jekyllrb.com">Jekyll</a>. If you need some help setting it up check out this <a href="https://dzgn.io/wdw.html">tutorial</a>. Here is another <a href="https://scottylabs.org/portfolio/">tutorial</a> focused on general web developement. Happy Building! <span class="emoji emoji-party"></span> <span class="emoji emoji-wrench"></span></p>
+:ET
