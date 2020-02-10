@@ -6,7 +6,7 @@ program: "M.Arch"
 graduation: 2021-05-19
 
 resume: "chengZhou.pdf"
-website: issuu.com/chengzhoucmu/docs/cheng_zhou_portfolio 
+website: behance.net/chengzhou 
 goal: Internship
 ---
 
