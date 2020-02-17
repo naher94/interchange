@@ -6,18 +6,13 @@ program: "B.Arch"
 graduation: 2021-05-19
 
 resume: "vanshikaGandotra.pdf"
-website: vanshikagandotra.com/
+website: vgandotr.myportfolio.com/ 
 goal: Internship
 
-project: "Tornare"
-projtext: "Located in the White Mountains in New Hampshire, Saco Lake Bath House attempts to create an organic, engaging experience. The design manipulates abstractly occurring contours to create a captivating form that serves to regulate circulation of people and water. The Bath House sites itself on a slope which is manipulated to create a three-level building structure and engages a naturally occurring stream to enhance the experience. It is oriented towards the lake such that visitors have the opportunity to relax in the midst of the deep White Mountains while looking at the serene Saco Lake. The project is designed with a focus on the processional through a relaxing spa retreat, using the glass interior to guide visitors through the different steps. The scale of the different spaces also correlates with the time visitors are expected to spend doing each activity. The curve form is used to create zones of being. The light weight, wood roof attempts to camouflage the whole structure, so it appears as though the forest is left unchanged. It also attempts to add linearity and an axis to an otherwise highly dynamic and engaging form.
- The studio process included a deep dive into building models to explore form, human scale and relating to a powerful terrain along with using those models to create collages to explore atmosphere and spatial characteristics. The studio also focused on the physical and expressionistic properties of wood and concrete and in my proposal, the two materials are used to create an experience of heaviness versus lightness."
-projlink: "tornare"
-img1: "tornare1.jpg"
-img2: "tornare2.jpg"
-img3: "tornare3.jpg"
-img4: "tornare4.jpg"
-img5: "tornare5.jpg"
+project: "Flutter"
+projtext: "The design is inspired by the metaphor of a butterfly in flight as a formal concept manifested through sculptural and structural wing-shaped post-tensioned heavy timber beams. The primary goal is using nature to uplift the experience of air travel. A butterfly conservatory has been introduced at the node as an additional programmatic element meant to be experienced by departing and arriving passengers of all ages. Additionally, the airport concourse aims to incorporate nature by landscaping the length of the main concourse using green walls and additional planters. The organic form of the amenity spaces in plan correlates to central garden in the JFK Redevelopment Plan."
+projlink: "vg_flutter"
+img1: "holdroom_section.jpg"
 ---
 
-I'm currently a third year pursuing a B.Arch. in the School of Architecture at Carnegie Mellon University along with a business minor. I am a member of CMU NOMAS and the executive board of Fresh Check Day, the biggest mental health awareness organization on campus. I am passionate about design as art driven by necessity and the impact that buildings have on shaping the identity of cities and in turn, the lives of people. I also enjoy exploring representational and fabrication techniques.
+I’m currently a fourth-year pursuing a B.Arch. in the School of Architecture at Carnegie Mellon University. I am passionate about design as art driven by necessity and the impact that buildings have on shaping the identity of cities and in turn, the lives of people. I am very interested in Cultural, Public and large-scale architecture. I have an interest in innovative structural design and thoroughly enjoy learning about building systems. Outside of academics, I devote my time to Fresh Check Day, Peer Health Advocates and CMU NOMAS.
