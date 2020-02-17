@@ -6,7 +6,7 @@ program: "M.Arch"
 graduation: 2020-05-19
 
 resume: "srinjoyHazra.pdf"
-website: drive.google.com/file/d/1pW8NJwbYqVQcRH8RHShObZPcDpMzxZ-m/view 
+website: issuu.com/srinjoyhazra/docs/folio_pages 
 goal: Full Time
 ---
 
