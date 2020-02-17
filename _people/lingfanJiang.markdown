@@ -6,8 +6,8 @@ program: "B.Arch"
 graduation: 2020-05-19
 
 resume: "lingfanJiang.pdf"
-website: lfjiang.com/
-goal: Internship
+website: issuu.com/lingfan.jiang/docs/portfolio_2020 
+goal: Full Time
 ---
 
-My name is Lingfan Jiang. I am a fourth-year architecture student in Carnegie Mellon University. Personally, I am really interested in how light and technology can influence human experience in architecture. Also, I am really passionate about photography and film making outside of school.
+As a fifth-year student at Carnegie Mellon University currently pursuing Bachelor of Architecture with a minor in Animation and Special Effects, I believe my education prepared me for my skill qualifications in this field. Being a LEED Green Associate affiliated to U.S. Green Building Council, I have a general knowledge of green building practices and am capable to support others working on LEED projects. Also, with three internships in architecture offices and one in a culture media company in the past four summers, my rich experience would bring diversity into companies.
