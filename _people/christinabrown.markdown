@@ -3,13 +3,11 @@ layout: people
 title:  "Christina Brown"
 thumbnail: "christinaBrown.png"
 program: "B.Arch"
-graduation: 2020-05-19
+graduation: 2020-12-19
 
 resume: "christinaBrown.pdf"
 website: christinaxbrown.com
-goal: Internship
+goal: Full Time
 ---
 
-Christina Brown is a 3rd year B.Arch student pursuing a professional degree with intention of pursuing licensure upon graduation. Having lived in North Carolina for over 10 years, she has developed strong interest in biophilic design, and great appreciation for the relationship between the natural and built environment. 
-Christina is a photographer for CMU SoA and has developed her documentation / publication skills through her work.
-She interned at the TianJin Institute of Architectural Design summer 2017 and gained valuable experience in design developments for a large scale firm and communication skills of working in a pure Mandarin-speaking environment.
+Hello! I am a 5th year Bachelor of Architecture Undergraduate and 1st year Master of Science in Sustainable Design student at CMU. Growing up in 3 different countries that varied greatly from one another, I came to recognize and appreciate the role of nature in our built environment and our social fabric. Through my pursuit of sustainability in architectural practice, I have developed passion for social resilience, circular economy, systems thinking, ecological design, and computational simulations in architectural practice. I strive to integrate these different aspects into my work to produce a positive impact environmentally and socially.
