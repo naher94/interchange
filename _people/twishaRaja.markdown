@@ -3,7 +3,8 @@ layout: people
 title:  "Twisha Raja"
 thumbnail: "twishaRaja.png"
 program: "MAAD"
-graduation: 2020-05-19
+graduation: 2021-05-19
+website: twisharaja.com/
 
 resume: "twishaRaja.pdf"
 goal: Internship
