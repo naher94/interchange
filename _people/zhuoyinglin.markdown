@@ -6,8 +6,8 @@ program: "B.Arch"
 graduation: 2020-05-19
 
 resume: "zhuoyingLin.pdf"
-website: issuu.com/zhuoyinglin/docs/20180217_portfolio3
-goal: Internship
+website: zy-lin.com/ 
+goal: Full Time
 ---
 
-This is Zhuoying Lin. A currently Third year student in Carnegie Mellon University Bachelor of Architecture Program with a deep interest in architecture, design,  illustration, technology and any new things.
+Zhuoying is a final year Architecture student seeking architecural designer full-time position. She is interested in all design-related opportunities.
