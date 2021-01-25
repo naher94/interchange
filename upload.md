@@ -2,16 +2,17 @@
 layout: default
 title: Upload
 ---
+
 # Introduction
 
 Welcome to the Interchange upload page! To submit a profile and work sample to showcase on the site, fill out the form linked below.
 
 Project submissions are optional, students may have a profile without submitting a work sample. There will be a curation process for all submitted work.
 
-Deadline for submission is **Feb 16th 11:59pm**
+Deadline for submission is **Feb 7th 11:59pm**
 
 <div class="buttonContainer formButton">
-  <a target="_blank" href="https://forms.gle/YjcHZzKw1La6Kicw7">
+  <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScTZJ06NgWk8VDaOkNr4g6spz4df-PuyUgJJCiOLXqDnPQFng/viewform?usp=sf_link">
     <div class="button">
       Go to Form
     </div>
@@ -22,12 +23,11 @@ For any questions, or to update an existing profile, email lhermann@andrew.cmu.e
 
 ## File Requirements
 
-| Item           | File Format          | Dimensions               | File Size Maximum | Naming Convension |
-| -------------- | -------------------- | ------------------------ | ----------------- | ----------------- |
-| Headshot       | PNG                  | 470px **x** 470px        | 400 KB | firstLast.png ([Lower Camel Case](http://wiki.c2.com/?LowerCamelCase))|
-| Project Thumbnail     | PNG                  | 500px **x** 375px        | 400 KB | projectName-ab.png (lowerCamelCase-initials.png) |
-| Resume         | PDF                  | 8.5 **x** 11 recommended | 1 MB   | firstLast.pdf |
-
+| Item              | File Format | Dimensions               | File Size Maximum | Naming Convension                                                      |
+| ----------------- | ----------- | ------------------------ | ----------------- | ---------------------------------------------------------------------- |
+| Headshot          | PNG         | 470px **x** 470px        | 400 KB            | firstLast.png ([Lower Camel Case](http://wiki.c2.com/?LowerCamelCase)) |
+| Project Thumbnail | PNG         | 500px **x** 375px        | 400 KB            | projectName-ab.png (lowerCamelCase-initials.png)                       |
+| Resume            | PDF         | 8.5 **x** 11 recommended | 1 MB              | firstLast.pdf                                                          |
 
 # Extras
 
