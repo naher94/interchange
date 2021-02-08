@@ -1,22 +1,25 @@
 ---
 layout: people
-title:  "Louis Suarez"
+title: "Louis Suarez"
 thumbnail: "louisSuarez.png"
-program: "B.Arch"
-graduation: 2021-05-19
-
+program: "MSSD"
+graduation: 2021 (BArch), 2022 (MSSD)
 resume: "louisSuarez.pdf"
-website: issuu.com/lou.antonio/docs/lasuarez_selected_works__draft2_update__pages__sma 
-goal: Internship
+website: drive.google.com/file/d/1R7BdOyA7-yBIbNl4Ia9dw7aI91DlgAvT/view?usp=sharing
+goal: Internship (summer), Part Time (fall semester)
+project: The Pennsylvania Chicken House (La Maison Poulet)
+projtext: "The Pennsylvania Chicken House is an experimental home designed in collaboration between senior architecture students Longney Luk and Louis Suarez. Based on the traditional Pennsylvania bank-barn, the PA Chicken House is built on a sloped site with the entrance at the top. The bottom level is an open-air grotto with built-in shelter for the residents chickens or other fowl. The PA Chicken House is pre-fabricated from recycled concrete and formed with 3D-printing technology. The components are digitally designed with the aid of shape optimization algorithms to decrease the mass while still maintaining structural performance. The pieces are then fabricated, transported, and assembled on-site. The complex forms due to the shape optimization also serve to create microcosms for the chickens and garden plants inhabit. The upper two levels comprise the house's main living space and loft, respectively. The main level consists of a flexible open-floorplan with spaces for kitchen, dining, and leisure. A central hearth is specially designed to radiantly heat the space, including the bath located behind the chimney. The upper loft includes two bed rooms, a family chapel, and a small lounge."
+projlink: louisSuarez
 
-project: "Studies in Algal Motion"
-projtext: "If ecological awareness is nonviolent coexistence with non-human others, then ecological architecture isn’t simply synonymous with sustainable architecture which aims to reduce negative impact of human built structures on the environment.1 Ecological architecture is more like an architecture mediating the space between humans and others, in which the building envelope is understood as something that also shelters others and program is the mode in which others operate in, each in completely unique ways. In a sense then, all architecture is ecological even when it’s unintentional.
-        Imagine a house on Pittsburgh’s Allegheny river. It’s a house for humans, where they sleep, dine, play, procreate, entertain, or what-you-will. It’s a house for concrete that is poured, sets, and gradually erodes in the river. It’s a house for the river which modifies the concrete, provides gray water for the plumbing, and causes flooding every December. And it’s a house for algae which swims about for (at first glance) no apparent reason partaking in what we call Brownian motion. What this house is is inexhaustible.
-        The algae, who is also ontologically inexhaustible, photo-synthesizes sugars from carbon dioxide and water. It releases oxygen that the family cat breaths. It swims about, and not in a completely random way, because algae, just like the cat, is more likely to do some things than others. More specifically, algae is reacts to sunlight in a particular way that can modeled with what is known as a Markov chain, or stochastic model describing the total possible sequence of events. By computing this we discover that the algae’s position in relationship to an aperture in a container can be determined probabilistically based on how long it has been exposed to sunlight.2,3 Because algae must be periodically shift between states of intense light and darkness in order to survive, its presence in the house isn’t constantly present. The algae partakes in a fluctuating dance of survival that in turn, mediates our experience of opacity and light, thus effecting how we live in a real-time way. Solidarity is achieved between us and them."
-projlink: "ls_algal"
-img1: "ls_alga1.png"
-img2: "ls_alga2.png"
-img3: "ls_alga3.png"
+img1: img1.png
+img2:  img2.png
+img3:  img3.png
+img4:  img4.png
+img5:  img5.png
+
+
+vidtype: youtube
+vidlink: Heg4GdJzf-4
 ---
 
-Louis (born 4 December 1997) is a 4th year bachelor of architecture student at Carnegie Mellon University. He loves art, music, reading, cycling, and cooking. As an architecture student he is interested in the art form’s connections with ecology, history, and storytelling and is always seeking to import ideas from music and literature into architecture. Aside from his architecture work, Louis is a classical guitarist of eight years. He has made solo and chamber appearances with the Pittsburgh Classical Guitar Society, the Carnegie Mellon Guitar Ensemble, and the Carnegie Mellon Contemporary Music Ensemble. Louis is also an avid road cyclist. He believes the world is best seen from the seat of a bicycle, and often takes long rides outside of Pittsburgh to explore industrial and agricultural infrastructure along the three rivers.
+Louis Suarez is a 5th year student completing his Bachelor of Architecture and an Accelerated Master of Science in Sustainable Design. His interests cover a broad spectrum from sustainable design and materials science to architectural history and theory. These interests are reflected both in his speculative architectural work integrating cradle-to-cradle and circular economy design frameworks into vernacular building traditions, and in his professional work as a researcher for the Carnegie Mellon University Manufacturing Futures Initiative where he studies material waste streams to find new ways of reducing the carbon footprint in the building industry.

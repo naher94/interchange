@@ -1,22 +1,23 @@
 ---
 layout: people
-title:  "Veronica Hernandez"
+title: "Veronica Hernandez"
 thumbnail: "veronicaHernandez.png"
 program: "B.Arch"
-graduation: 2022-05-19
-
+graduation: May 2022
 resume: "veronicaHernandez.pdf"
-website: veronicarchitecture.com/portfolio
+website: issuu.com/veronicagarrido98/docs/for_issu
 goal: Internship
+project: Aqua-Seum
+projtext: "The building is both a large water quality transformation agent through its carved island and an environmental museum inside its building complex. The design uses parametric and geo tectonic studies using grasshopper and DIVA as well as flooding GIS mapping for a landscape and architecture design that interacts with the rivers qater while collecting and treating it."
+projlink: veronicaHernandez
 
-project: "Aqua-seum"
-projtext: "The museum serves as a transformation agent of weather and a teaching and learning space for current and future generations about water preservation and production and environmental purposes. The design uses parametric and geo tectonic studies for landscape and architecture informed design."
-projlink: "vh_aquaseum"
-img1: "Veronica-Hernandez-model2.jpg"
-img2: "render1.jpg"
-img3: "render2.jpg"
-img4: "diagrams.jpg"
-img5: "section.jpg"
+img1: img1.jpg
+img2:  img2.jpg
+img3:  img3.jpg
+img4:  img4.jpg
+img5:  img5.jpg
+
+
 ---
 
-I'm a third year Architecture student minoring in Innovation and Entrepreneurship.  I was born and raised in Colombia and grew up with the dream of using my architecture as a tool for social and environmental repair.
+I am a fourth year B.Arch student with a minor in Innovation and Entrepreneurship from Carnegie Mellon Univeristy. Being born and raised in Colombia I grew up with the dream of using architecture as a tool for social and environmental repair.

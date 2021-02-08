@@ -46,6 +46,15 @@ layout: default
     <p>Expected Graduation: {{ page.graduation | date: "%B %Y" }}</p>
   </div>
 
+  {% if page.vidtype %}
+    {% if page.vidtype == "vimeo" %}
+    <iframe title="vimeo-player" src="https://player.vimeo.com/video/{{page.vidlink}}" width="640" height="480" frameborder="0" allowfullscreen></iframe>
+    {% endif %}
+    {% if page.vidtype == "youtube" %}
+    <iframe width="640" height="480" src="https://www.youtube.com/embed/{{page.vidlink}}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    {% endif %}
+  {% endif %}
+
   <div class="row" style="margin-top:50px;">
       {% if page.project %}
           <h3>Representative Project</h3>
