@@ -2,7 +2,7 @@
 layout: people
 title: "Longney Luk"
 thumbnail: "longneyLuk.png"
-program: "MSSD"
+program: "B.Arch"
 graduation: May 2021 & May 2022
 resume: "longneyLuk.pdf"
 website: drive.google.com/file/d/15Mlgh-E1qHeNlUSHRMAtpwSJfzvnD7kh/view?usp=sharing

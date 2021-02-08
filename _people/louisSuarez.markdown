@@ -2,7 +2,7 @@
 layout: people
 title: "Louis Suarez"
 thumbnail: "louisSuarez.png"
-program: "MSSD"
+program: "B.Arch"
 graduation: 2021 (BArch), 2022 (MSSD)
 resume: "louisSuarez.pdf"
 website: drive.google.com/file/d/1R7BdOyA7-yBIbNl4Ia9dw7aI91DlgAvT/view?usp=sharing
