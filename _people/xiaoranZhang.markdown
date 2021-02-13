@@ -16,6 +16,9 @@ projlink: xiaoranZhang
 img1: img1.jpg
 img2:  img2.jpg
 
+vidtype: vimeo
+vidlink: 509594891
+
 ---
 
 Currently a second year Master of Urban Design student in CMU SoA. After receiving 5-year urban and architecture design education as a professional urban planner in undergraduate period, I keep pursuing urban design degree in CMU. Currently my projects and research mostly focus on sustainable city and community development and urban commons studies. I am interested in exploring emerging technologies and methodologies as interventions into cities’ development. As an urban designer, I am innovative and highly-organized both in teams and individually.
