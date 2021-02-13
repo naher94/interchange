@@ -5,7 +5,7 @@ thumbnail: "xiaoranZhang.png"
 program: "MUD"
 graduation: May 2021
 resume: "xiaoranZhang.pdf"
-website: 
+website: issuu.com/xiaoranz/docs/xiaoranzhang_portfoilio_202101 
 goal: Full Time
 project: Covillage
 projtext: "CoVillage is the 2021 ULI Hines Competition project I participated as a team lead.

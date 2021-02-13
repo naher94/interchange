@@ -5,7 +5,7 @@ thumbnail: "harryBranchShaw.png"
 program: "B.Arch"
 graduation: May 2021
 resume: "harryBranchShaw.pdf"
-website: 
+website: documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:698b771c-9d50-409b-9a42-bfba517a4e08
 goal: Full Time
 project: Environmental Charter School
 projtext: "The Environmental Charter School is located in the Point Breeze neighborhood of Pittsburgh, PA. However, the school is looking to open a new location due to the popular demand for admission. A proposed site is in Central Lawrenceville, adjacent to the Carnegie Mellon University National Robotics Engineering Center and the Allegheny River. This location is ideal as the school model encourages learning through exposure to the outdoor environment. The site on the river offers access to open green space and the riverbank, allowing students space to learn and play. 

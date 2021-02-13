@@ -5,7 +5,7 @@ thumbnail: "zehuiLi.png"
 program: "M.Arch"
 graduation: May 2021
 resume: "zehuiLi.pdf"
-website: 
+website: issuu.com/louislee910/docs/2021_____working_samples_17x11 
 goal: Full Time
 
 

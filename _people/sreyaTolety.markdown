@@ -5,7 +5,7 @@ thumbnail: "sreyaTolety.png"
 program: "MSSD"
 graduation: May 2021
 resume: "sreyaTolety.pdf"
-website: 
+website: designbysreya.com/
 goal: Full Time
 project: "Solar-Ver: Climate-Driven Evolutionary Form Finding"
 projtext: "With the rise of climate change, thermal discomfort has become a primary concern in high-performance buildings.

@@ -5,7 +5,7 @@ thumbnail: "eeshaNagpal.png"
 program: "B.Arch"
 graduation: May 2025
 resume: "eeshaNagpal.pdf"
-website: 
+website: issuu.com/shanchels/docs/shanicelam_portfolio_compressed
 goal: Internship
 
 

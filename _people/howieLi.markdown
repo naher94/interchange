@@ -5,7 +5,7 @@ thumbnail: "howieLi.png"
 program: "B.Arch"
 graduation: 2024
 resume: "howieLi.pdf"
-website: 
+website: issuu.com/howieli/docs/portfolio_2021 
 goal: Internship
 
 

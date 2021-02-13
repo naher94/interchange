@@ -5,7 +5,7 @@ thumbnail: "HenryvonRintelen.png"
 program: "B.Arch"
 graduation: 2025
 resume: "henryvonRintelen.pdf"
-website: 
+website: hvrarq.com/ 
 goal: Internship
 project: Clam Colony
 projtext: "Under the direction of Sarah Rafson and Mary-Lou Arscott, as part of the Critical Cyborg Studio, my section and I were assigned to create habitats for local creatures to inhabit the Fort Wayne Railroad Bridge and the Allegheny River below.

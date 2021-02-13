@@ -5,7 +5,7 @@ thumbnail: "curranZhang.png"
 program: "B.Arch"
 graduation: "May 2021"
 resume: "curranZhang.pdf"
-website: 
+website: issuu.com/curranz/docs/portfolio5 
 goal: Full Time
 project: Humanizing Brutalism 
 projtext: "Located within London, the Southbank Centre is home to Europe’s largest centre for arts. The existence of the Royal Festival Hall, Queen Elizabeth Hall, and the Hayward Gallery stands as a symbol for London’s art, architecture, and skateboarding. From the spotlights of the dazzling performance chambers to the lively under-croft skate park, the brutalist Southbank Centre is a home for those who seek art.

@@ -5,7 +5,7 @@ thumbnail: "davidWarfel.png"
 program: "B.Arch"
 graduation: May 2025
 resume: "davidWarfel.pdf"
-website: 
+website: drive.google.com/file/d/1m-ycwGGrAeipYeZh2IvygLqYeUMoc4-J/view?usp=sharing 
 goal: Internship
 project: Exquisite Corpse
 projtext: "This project analyzes the relationship between different species of animals and habitats as they strive to survive and coexist on the Smithfield Street Bridge in Pittsburgh, PA.

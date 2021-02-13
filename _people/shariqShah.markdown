@@ -5,7 +5,7 @@ thumbnail: "shariqShah.png"
 program: "B.Arch"
 graduation: May 2022
 resume: "shariqShah.pdf"
-website: 
+website: shariqmshah.com/ 
 goal: Internship
 project: Environmental Learning Center - St. Clair Village
 projtext: "A farming-centered Environmental Learning Center focused on addressing food insecurity in St. Clair Village, Pittsburgh, PA. Through a process of rigorously diagramming the processes of growing, harvesting, and preparing food, the design intervention was generated from the movement and flows of various knowledge agents in the ecosystems of growing. The proposal incorporated a rigorous process of environmental simulations to iterate through design opportunities and make critical design decisions. "

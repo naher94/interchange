@@ -5,7 +5,7 @@ thumbnail: "colleenDuong.png"
 program: "MSSD"
 graduation: May, 2022
 resume: "colleenDuong.pdf"
-website: 
+website: colleenduong.com/ColleenDuong_Portfolio.pdf 
 goal: Internship
 project: Split House 
 projtext: "Embedded in an ecological hillside, the co-house focuses on taking advantage of landslides that occur in Pittsburgh due to heavy rain. The central greenhouse and co-housing rooftops collect mud and water and redirects it over, through, and around the architecture, allowing occupants to directly interact with the environment around them."

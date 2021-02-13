@@ -5,7 +5,7 @@ thumbnail: "leahKendrick.png"
 program: "B.Arch"
 graduation: May 2021
 resume: "leahKendrick.pdf"
-website: 
+website: leahkendrick.com/ 
 goal: Full Time
 project: Unearthed Agricultural Community Campus
 projtext: "The UnEarthed campus is located on the southern tip of the mostly undeveloped, post-industrial site of Hazelwood Green in Pittsburgh, PA. Our client, Center of Life (COL), is an empowering and supportive community organization with the mission “to provide families and youth with the life skills, education, training, and resources necessary to be strong and to make their communities strong.” My team’s spatial and experiential vision was primarily rooted in satisfying COL’s mission and its persisting endeavor to supply people with food and cultural outlets for community members to express themselves through music and the arts.
