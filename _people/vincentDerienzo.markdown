@@ -12,8 +12,10 @@ projtext: "Our work (Colleen Duong, Emmanuel Nwandu, and Doris Zhang) began with
 projlink: vincentDerienzo
 
 img1: img1.gif
-img2:  img2.jpg
-img3:  img3.jpg
+img2: img2.jpg
+img3: img3.jpg
+vidtype: vimeo
+vidlink: 413162209
 ---
 
 I am a fifth year Bachelor of Architecture student seeking roles in architecture, interior design, and creative direction. My past experience includes creating beautiful spaces for single-family residences, and I look forward to pushing my realm of work into designing beautiful experiences through space, styling, and installation.
